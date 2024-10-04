@@ -2,6 +2,7 @@
 
 class Attaccante extends Giocatore {
 	public Attaccante() {
+		System.err.println("ciao");
 		setRuoloACDP(FC_Varie.ATT);
 	}
 	
