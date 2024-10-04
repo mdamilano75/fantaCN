@@ -1,0 +1,920 @@
+<!doctype html><!-- CONTENT PATH: /json-contents/w/cards/2024/09/14/610315.json --><!--@ REQUEST URI :  /contents/2024/09/14/610315/4.shtml--><!--@ PARTNER ID: www.sosfanta.com--><!--@[rcs_prefix]: prd--><!--@[SERVER_NAME]: www.sosfanta.com--><!--@Conf type prd --><!--@[CONFTYPE]: prd--><!--@ fe-include /fe-includes/2019/SSI--><!--@ service-include /service-includes/2019/SSI--><!--@Section_levl1: asta-fantacalcio--><!--@Section_levl2: default--><!--@ Type: cards--><!--@ Device: desktop--><!--@timestamp:202409141139-->
+<html lang="it-IT" data-type="cards" prefix="og: http://ogp.me/ns#">
+ <head>
+  <meta property="og:title" content="La Guida all’Asta aggiornata con novità, fasce, prezzi, slot e consigli per il fantacalcio">
+  <meta property="og:description" content="Ecco la Guida all'Asta completa per il fantacalcio 2024-2025. Ci sono tutti i nostri consigli con la consueta divisione in fasce, dai top ai low cost.">
+  <meta property="og:type" content="cards">
+  <meta property="og:url" content="https://www.sosfanta.com/asta-fantacalcio/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/">
+  <meta property="og:image" content="https://images2-gazzanet.gazzettaobjects.it/M8_DlmLCEf2Kz23VL77h0wVLc6c=/1200x627/smart/www.sosfanta.com/assets/uploads/202409/b6c702340c32dc42f3f8fd02ebcd3657-e1726157535374.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="627">
+  <meta property="og:site_name" content="SosFanta">
+  <meta property="og:locale" content="it_IT">
+  <meta property="og:uuid" content="610315">
+  <meta property="og:section" content="asta-fantacalcio">
+  <meta property="uuid_articolo" content="610315">
+  <meta name="description" content="Ecco la Guida all'Asta completa per il fantacalcio 2024-2025. Ci sono tutti i nostri consigli con la consueta divisione in fasce, dai top ai low cost.">
+  <meta name="keywords" content="">
+  <link rel="canonical" href="https://www.sosfanta.com/asta-fantacalcio/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/">
+  <link rel="amphtml" href="https://www.sosfanta.com/asta-fantacalcio/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/amp/">
+  <script type="application/ld+json">
+        [{"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.sosfanta.com/asta-fantacalcio/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/"},"headline":"La Guida all\u2019Asta aggiornata con novit\u00e0, fasce, prezzi, slot e consigli per il fantacalcio","datePublished":"2024-09-14T08:45:41+02:00","dateModified":"2024-09-14T11:39:25+02:00","description":"Ecco la Guida all'Asta completa per il fantacalcio 2024-2025. Ci sono tutti i nostri consigli con la consueta divisione in fasce, dai top ai low cost.","image":"https://prd-images2-gazzanet.gazzettaobjects.it/M8_DlmLCEf2Kz23VL77h0wVLc6c=/1200x627/smart/www.sosfanta.com/assets/uploads/202409/b6c702340c32dc42f3f8fd02ebcd3657-e1726157535374.jpg","author":{"@type":"Person","name":"Guglielmo Cannavale"},"publisher":{"@type":"Organization","name":"SOS Fanta","logo":{"@type":"ImageObject","url":"https://components2.gazzettaobjects.it/rcs_gaz_gazzanet-layout/v1/assets/img/ext/partners/www.sosfanta.com/logo-bannermenu-dsk.png","width":300,"height":60}}}]                </script>
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@Gazzetta_it">
+  <meta property="twitter:title" content="La Guida all’Asta aggiornata con novità, fasce, prezzi, slot e consigli per il fantacalcio">
+  <meta property="twitter:description" content="Ecco la Guida all'Asta completa per il fantacalcio 2024-2025. Ci sono tutti i nostri consigli con la consueta divisione in fasce, dai top ai low cost.">
+  <meta property="twitter:image" content="https://images2-gazzanet.gazzettaobjects.it/M8_DlmLCEf2Kz23VL77h0wVLc6c=/1200x627/smart/www.sosfanta.com/assets/uploads/202409/b6c702340c32dc42f3f8fd02ebcd3657-e1726157535374.jpg">
+  <title>La Guida all’Asta aggiornata con novità, fasce, prezzi, slot e consigli per il fantacalcio - SosFanta</title>
+  <script>var device = 'desktop';
+        var rpg2019 = true;
+        var gnet2020 = true;
+        var uuid = '610315';
+        var sezione = 'asta-fantacalcio';
+        var sottosezione = 'default';
+        var tipologia = 'cards';
+        var antiAdblockType = 3;
+        var network = 'gazzanet';var section_lev3 = 'default';var taboolaCategory = 'default';var gznPartnerId = 'www.sosfanta.com';var gznBlogId = '71';</script>
+  <script type="text/javascript">RCSAD_listpos="Position1,TopLeft,BottomRight,Frame1,Frame2,Frame3,Bottom1,Middle1"</script>
+  <script type="text/javascript">gazzanetRestyling2020=!0</script>
+  <script type="text/javascript">RCSAD_sitepage="gazzanet.it/sosfanta/pagine"</script><!--@ESI cache-keys START--><!--@ REQUEST URI :  /fe-includes/2019/SSI/external-template/gazzanet/low-ttl/cache-keys/default.shtml--><!--@ PARTNER ID: (none)--><!--@[rcs_prefix]: prd--><!--@[SERVER_NAME]: contents.gazzanetobjects.internal--><!--@Conf type prd --><!--@[CONFTYPE]: prd--><!--@ fe-include /fe-includes/2019/SSI--><!--@ service-include /service-includes/2019/SSI--><!--@ Device: desktop-->
+  <script>var server_date="10-04-24-40-5-04-08-2024-01",server_date_iso="2024-10-04T08:04:01Z",server_date_timestamp="1728029041",server_date_split=server_date.split("-"),server_hour=server_date_split[6]/1,cacheKeysMap={rcs_gaz_menu:"956ba03d550014c8e800029717c56efd",rcs_gaz_userauth:"dcee8dd3513ade15976e8b4aecd256e8","rcs_gaz_revive-dispatch":"0c7023b8d169848b9cd6777bd1e6044b","rcs_tealium+utagsync":"72982072fb1238738210b89f3261097f","rcs_tealium+utag":"03683834f1b2547e3cc01cfbedbca598",rcs_videoplayer:"e2209fce788707408c8565059c4b1376","rcs_video-manager":"f4850515ff65d2ed71f3ddcba7ddc135","rcs_gaz_social-bar":"e6351e80fa2dbb52c400d9817237a153","rcs_social-embed":"0d7289280666292ff496a781bf8595a8",rcs_gaz_comments:"ed2fe82d0f8b3bc38e3481f9754cbded",rcs_gaz_bookmarks:"e946e1fc36d3a1b32b7e4d7c8389cdef","rcs_anti-adblocker":"0b74b331c48a0a803dd96806dc524a6b","rcs_gaz_content-query-render-engine":"2f278b7d37e38bb080dc83c33e030dce","rcs_gaz_mc-widgets":"c548d8fc1c70c8bda883ea4729a82105",rcs_mc_widget_gazzanet:"96bd74fdb322e3864e70ffcceda421ec",rcs_mc_widget_gazzanet_css:"1ac986ee2ca9b2a05bbd7e65388ce7c6","rcs_gaz_gazzanet_match-center-players_FE_CSS":"                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ","rcs_gaz_gazzanet_match-center-players_FE":"                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ","rcs_pitch-manager":"0eb366f864b57422f3885e5c4edbee6d","rcs_gallery-manager":"2d740646a324e18291f2d35141c6419f","rcs_most-viewed":"3af774fec762cfa60160a573cb753cea","rcs_gaz_gazzanet-layout+home_mobile":"0bebad5d17cd97d795ad299a43849217","rcs_gaz_gazzanet-layout+article_mobile":"5bc7dd8e81b92edf6e58a2b4173e8d71","rcs_date-picker":"3676062c96ce523d376fbe93d17f6389",rcs_autocomplete:"3c827b75415194e58fe496c71984f606","rcs_gaz_my-gazzetta":"8e5ec0950177aa951f2a53c3bcc3374f",rcs_gzn_notification:"b8684dee51a014725899d981f9bcd417","rcs_gaz_section-pagination":"dffdf193b59001157d09c002cda33d10","rcs_gaz_adv-injector":"c08d4b33db1adc4005e0c0c5c2525954",rcs_mc_widget_FE:"e9563488d2c629c10e07d14b1d25b947",rcs_mc_widget_FE_CSS:"5c564b012909c4cbcdde246134c4e661","rcs_ux-scripts-loader":"71558a990a2925c9368c90a59a5f6339"}</script><!--@ESI cache-keys END--><!--@ESI head START--><!--@ REQUEST URI :  /fe-includes/2019/SSI/external-template/gazzanet/head/default.shtml?partnerId=www.sosfanta.com&amp;device=desktop&amp;type=cards--><!--@ PARTNER ID: www.sosfanta.com--><!--@[rcs_prefix]: prd--><!--@[SERVER_NAME]: contents.gazzanetobjects.internal--><!--@Conf type prd --><!--@[CONFTYPE]: prd--><!--@ fe-include /fe-includes/2019/SSI--><!--@ service-include /service-includes/2019/SSI--><!--@ Type: cards--><!--@ Device: desktop-->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=no">
+  <link rel="alternate" type="application/rss+xml" title="SosFantaFeed" href="https://www.sosfanta.com/feed/">
+  <meta name="google-site-verification" content="Kk4IVwttusxfFaBMuhi9R-imVOOpoXHSj18y_Atuy1w">
+  <link rel="shortcut icon" href="https://components2.gazzettaobjects.it/rcs_gaz_gazzanet-layout/v1/assets/img/ext/partners/www.sosfanta.com/favicon.png" type="image/x-icon">
+  <link rel="apple-touch-icon-precomposed" href="https://components2.gazzettaobjects.it/rcs_gaz_gazzanet-layout/v1/assets/img/ext/partners/www.sosfanta.com/favicon.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://components2.gazzettaobjects.it/rcs_gaz_gazzanet-layout/v1/assets/img/ext/partners/www.sosfanta.com/favicon.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://components2.gazzettaobjects.it/rcs_gaz_gazzanet-layout/v1/assets/img/ext/partners/www.sosfanta.com/favicon.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://components2.gazzettaobjects.it/rcs_gaz_gazzanet-layout/v1/assets/img/ext/partners/www.sosfanta.com/favicon.png">
+  <meta property="fb:app_id" content="179865762787156">
+  <meta property="fb:pages" content="78604705935">
+  <meta name="theme-color" content="hsl(0, 78%, 52%)"><!--@ REALDEVICE: desktop--><!--@ SERVERNAME: contents.gazzanetobjects.internal-->
+  <script>window.innerWidth<=1440&&document.addEventListener("eventloadedTlDFP",function(){document.querySelector("#l-main .wrapper").style.cssText="padding-left: 0.3em!important; padding-right: 0.3em!important"})</script>
+  <script>function calcScaleFactor(layoutConfig) {
+    let containerSize = layoutConfig.containerW * screen.width / layoutConfig.wideW;
+    return containerSize / layoutConfig.containerW;
+  }
+
+  function setScaleFactor() {
+    if (document.location.search.includes('app_v2=true')) {
+      if (window.device === 'mobile') {
+        return;
+      }
+
+      const metaViewport = document.querySelector('meta[name="viewport"]');
+
+      if (metaViewport) {
+        metaViewport.setAttribute('content', 'width=1030,user-scalable=no');
+      }
+
+      return;
+    }
+
+    let scalingFactor;
+    let scalingWidth = 'device-width';
+    let orientation = screen.msOrientation || screen.mozOrientation || (screen.orientation || {}).type;
+    if ((window.matchMedia("(orientation: portrait)").matches) || window.orientation === 0
+      || orientation === "portrait-secondary" || orientation === "portrait-primary") {
+
+      if (screen.width > 768) {
+        let layoutConfigPortrait = { containerW: 1024, wideW: 1366 };
+        scalingFactor = calcScaleFactor(layoutConfigPortrait);
+        scalingFactor = screen.width / layoutConfigPortrait.containerW;
+      } else {
+        let layoutConfigPortrait = { containerW: 600, wideW: 1024 };
+        scalingFactor = calcScaleFactor(layoutConfigPortrait);
+      }
+      scalingWidth = 1124;
+    } else {
+      if (screen.width > 1024) {
+        let layoutConfigLandscape = { containerW: 1136, wideW: 1440 };
+        scalingFactor = calcScaleFactor(layoutConfigLandscape);
+      } else {
+        let layoutConfigPortrait = { containerW: 1024, wideW: 1136 };
+        scalingFactor = calcScaleFactor(layoutConfigPortrait);
+        scalingFactor = screen.width / layoutConfigPortrait.containerW;
+      }
+      scalingWidth = 1200;
+    }
+    if (scalingFactor) {
+      Array.from(document.querySelectorAll('meta')).forEach(function (el) {
+        if (el.getAttribute('name') === 'viewport') {
+          el.setAttribute('content', 'width=' + scalingWidth + '');
+        }
+      });
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    if (window.innerWidth <= 1024) {
+      setScaleFactor();
+    }
+  });
+
+  window.addEventListener('orientationchange', function () {
+    if (window.innerWidth <= 1024) {
+      setTimeout(() => {
+        setScaleFactor();
+      }, 100);
+    }
+  });</script>
+  <script type="text/javascript">"serviceWorker"in navigator&&"PushManager"in window&&"Notification"in window&&"denied"!==window.Notification.permission&&window.addEventListener("load",function(){var e=document.querySelector("body"),i=document.createElement("script");i.src="https://www.gstatic.com/firebasejs/7.1.0/firebase-app.js",i.onload=function(){var e=document.querySelector("body"),i=document.createElement("script");i.src="https://www.gstatic.com/firebasejs/7.1.0/firebase-messaging.js",i.onload=function(){firebase.initializeApp({apiKey:"AIzaSyB6v5pfbzB_qM9Gu87MTJUTypJc1JVH1XM",projectId:"gzn-web-fb-notification-prd",messagingSenderId:"861163521084",appId:"1:861163521084:web:69eee12f2c4420a2cc6f39"}),window.messaging=firebase.messaging(),messaging.usePublicVapidKey("BOt3of0A4KcJ04NxfBMvQHXXsUJ5giWM9zV7e1JCTgX2TVO-5b0mEqQKA6s99wnyQgU5-XPNUuw2i5MmC2lqnbE");var e=document.createEvent("Event");e.initEvent("RcsFirebaseLoaded",!0,!0),document.dispatchEvent(e)},e.appendChild(i)},e.appendChild(i)})</script>
+  <link href="https://components2.gazzettaobjects.it" rel="preconnect" crossorigin>
+  <script nomodule src="https://components2.gazzettaobjects.it/rcs_orchestrator/v3/index.legacy.min.js?v=89ca9383f041b57cd064280c9c1560d0"></script>
+  <script src="https://components2.gazzettaobjects.it/rcs_orchestrator/v3/index.min.js?v=77654fd0e3d4427c083077cf0485a989" crossorigin="anonymous"></script>
+  <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script type="text/javascript">var utag_data = {}; window.cpAccepted = false; document.addEventListener('cpAccepted', () => { window.cpAccepted = true; }); document.addEventListener('DOMContentLoaded', () => { window.rcsOrchestrator.ptm.pushTracking('DOMContentLoaded'); }); var utag_cfg_ovrd = { domain : 'components2.gazzettaobjects.it', path : "https://components2.gazzettaobjects.it/rcs_tealium/v1/distro/gazzanet2020/prod/", env: 'prod' }; var config = { getFlavor: function(){ return 'desktop'; }, cacheKeysMapVar: 'cacheKeysMap', ptm: {}, components: [{ id: 'rcs_tealium+utagsync', type: 'ext', src: 'https://components2.gazzettaobjects.it/rcs_tealium/v1/distro/gazzanet2020/prod/utag.sync.js', priority: 1 }, { id: 'rcs_tealium+utag', type: 'ext', src: 'https://components2.gazzettaobjects.it/rcs_tealium/v1/distro/gazzanet2020/prod/utag.js', priority: 2 }, { type: 'module', src: 'Gazzanet/Global/Desktop/Default', priority: 2, events: [ { target: document, eventName: 'DOMContentLoaded' } ] }, { type: 'module', src: 'Gazzetta/Survey', priority: 4, legacy: true, onViewport: { target: '.bck-survey', offset: 200, } }, { id: 'rcs_gaz_menu', type: 'ext', src: 'https://components2.gazzettaobjects.it/rcs_gaz_menu/v1/index.min.js', priority: 4, legacy: true, events: [ { target: document, eventName: 'DOMContentLoaded' } ], callback: function() { var RcsGazMenuComponent = new RcsGazMenu(); RcsGazMenuComponent.render(); } }, { id: 'rcs_gaz_userauth', type: 'ext', src: 'https://components2.gazzettaobjects.it/rcs_gaz_userauth/v5/index.min.js', priority: 2, legacy: true, events: [ { target: document, eventName: 'DOMContentLoaded' } ], callback: function() { var RcsGazUserAuthComponent = new RcsGazUserauth('body'); RcsGazUserAuthComponent.render(); } }, { id: 'rcs_mc_widget_gazzanet', type: 'ext', src: 'https://components2.gazzettaobjects.it/rcs_mc_widget_gazzanet_FE/v2/index.min.js', priority: 3, legacy: true, onViewport: { target: '.mc-widget', offset: 100, }, callback: function() { } }, { id: 'rcs_mc_widget_gazzanet_css', type: 'style', src: 'https://components2.gazzettaobjects.it/rcs_mc_widget_gazzanet_FE/v2/main.css', priority: 2, legacy: false, enableOffline: true, onViewport: { target: '.mc-widget', offset: 300, } }, { id: 'rcs_ux-scripts-loader', type: 'ext', src: 'https://components2.gazzettaobjects.it/rcs_ux-scripts-loader/v1/index.min.js', priority: 10, legacy: true, flavors: ['desktop', 'tablet'], events: [ { target: document, eventName: 'DOMContentLoaded' } ], callback: function() { var component = new RcsUxScriptsLoader(); component.render(); } },{ type: 'module', src: 'Gazzanet/Global/Desktop/Cards', priority: 1, events: [ { target: document, eventName: 'DOMContentLoaded' } ] }, { type: 'ext', src: 'https://imasdk.googleapis.com/js/sdkloader/ima3.js', priority: 2 }, { id: 'rcs_videoplayer', type: 'ext', src: 'https://components2.gazzettaobjects.it/rcs_videoplayer/v2/index.min.js', priority: 3, legacy: true, callback: function() { const eventName = 'RCSVideo:loaded'; window.rcsOrchestrator.eventManager.dispatchEvent(eventName); console.log(eventName); } }, { id: 'rcs_video-manager', type: 'ext', src: 'https://components2.gazzettaobjects.it/rcs_video-manager/v3/index.min.js', priority: 4, legacy: true, callback: function() { const rcsVideoManager = new RcsVideoManager(); const render = () => rcsVideoManager.render(document.querySelectorAll('.player[data-config]')); const renderAfterRCSVideoLoaded = () => window.rcsOrchestrator.eventManager.addEventListener('RCSVideo:loaded', render); if (typeof cpmt !== 'undefined' && cpmt.data.accepted === true) { renderAfterRCSVideoLoaded(); } else { document.addEventListener('cpAccepted', function() { renderAfterRCSVideoLoaded(); }); } } }, { id: 'rcs_gaz_social-bar', type: 'ext', src: 'https://components2.gazzettaobjects.it/rcs_gaz_social-bar/v2/index.min.js', priority: 3, legacy: true, onViewport: { target: '.bck-social-nav, a[data-social="forward"]', offset: 200, }, callback: function() { var RcsSocialBarComponent = new RcsGazSocialBar(); RcsSocialBarComponent.render(); } }, { id: 'rcs_social-embed', type: 'ext', src: 'https://components2.gazzettaobjects.it/rcs_social-embed/v1/index.min.js', priority: 4, legacy: true, onViewport: { target: '.rcs_social-embed', offset: 200, }, callback: function() { var RcsSocialEmbedComponent = new RcsSocialEmbed('.rcs_social-embed'); RcsSocialEmbedComponent.render(); } }, { id: 'rcs_gaz_comments', type: 'ext', src: 'https://components2.gazzettaobjects.it/rcs_gaz_comments/v1/index.min.js', priority: 3, legacy: true, events: [ { target: window, eventName: 'load' } ], callback: function() { var RcsGazCommentsComponent = new RcsGazComments('.js-comment'); RcsGazCommentsComponent.render(); } }, { id: 'rcs_gaz_bookmarks', type: 'ext', src: 'https://components2.gazzettaobjects.it/rcs_gaz_bookmarks/v2/index.min.js', priority: 3, legacy: true, events: [ { target: window, eventName: 'load' } ], callback: function() { var RcsGazBookmarkComponent = new RcsGazBookmarks(); RcsGazBookmarkComponent.render(); } }, { id: 'rcs_gaz_content-query-render-engine', type: 'ext', src: 'https://components2.gazzettaobjects.it/rcs_gaz_content-query-render-engine/v1/index.min.js', priority: 5, legacy: true, onViewport: { target: '.content-query-render', offset: 200, }, callback: function() { var nodes = Array.from(document.querySelectorAll('.content-query-render')); nodes.forEach(function(item) { var contentQueryRender = new RcsGazContentQueryRenderEngine(item); contentQueryRender.render(); }); } }, { id: 'rcs_gaz_mc-widgets', type: 'ext', src: 'https://components2.gazzettaobjects.it/rcs_gaz_mc-widgets/v1/index.min.js', priority: 4, legacy: true, onViewport: { target: '.matchcenter-rpg', }, callback: function() { var RcsGazMcWidgetsComponent = new RcsGazMcWidgets('.matchcenter-rpg'); RcsGazMcWidgetsComponent.render(); } }, { id: 'rcs_anti-adblocker', type: 'ext', src: 'https://components2.gazzettaobjects.it/rcs_anti-adblocker/v1/index.min.js', priority: 3, legacy: true, events: [ { target: document, eventName: 'adblockActivated' } ], callback: function() { var RcsAntiAdblockerComponent = new RcsAntiAdblocker(1, 'gazzetta'); RcsAntiAdblockerComponent.render(); } }, { type: 'module', src: 'Gazzetta/PPN', priority: 4, legacy: true, onViewport: { target: '#box_ppn', offset: 200, } },]}; var rcsOrchestrator; rcsOrchestrator = new RcsOrchestrator(config); rcsOrchestrator.load();</script>
+  <script type="text/javascript">var cpmt_checkFunction_service=function(c){/video\.gazz.*\.it/.test(window.location.host)&&(cpmt_xa=!0);var t="undefined";try{c=typeof c===t?5295:c}catch(e){c=typeof c===t?null:c}cpmt_xa="boolean"==typeof cpmt_xa&&cpmt_xa;var e=new RegExp("cpmt_xa=[^;]*,?("+c+"),?");if(-1==document.location.search.indexOf("playerType=partnership"))return!(null===document.cookie.match(e)||!cpmt_xa)||-1!==document.cookie.indexOf("__ric=");var n=new RegExp("cpmt_xa=[^;]*,?("+c+"),?"),a=localStorage.getItem("cpmt_xa");return!(null===document.cookie.match(e)&&null==a.match(n)||!cpmt_xa)||(-1!==document.cookie.indexOf("__ric=")||null!=localStorage.getItem("__ric"))},cpmt_xa=!0,privacyOK=cpmt_checkFunction_service();if("undefined"!=typeof gznPartnerId)var partnerId=gznPartnerId.replace(/(www.)/gi,"");else partnerId="gazzetta.it";var v_chartbeat=!0,_sf_async_config=_sf_async_config||{};_sf_async_config.uid=48229,_sf_async_config.domain=partnerId.valueOf(),_sf_async_config.useCanonical=!0,_sf_async_config.flickerControl=!1,_sf_async_config.autoDetect=!1;var _sf_startpt=(new Date).getTime()</script>
+  <link href="https://www.googletagservices.com" rel="preconnect" crossorigin>
+  <link href="https://static.adsafeprotected.com" rel="preconnect" crossorigin>
+  <link href="https://adservice.google.it" rel="preconnect" crossorigin>
+  <link href="https://securepubads.g.doubleclick.net" rel="preconnect" crossorigin>
+  <link href="https://beacon.krxd.net" rel="preconnect" crossorigin>
+  <link href="https://cdn.krxd.net" rel="preconnect" crossorigin><!--@ESI head END-->
+  <link rel="stylesheet" href="https://components2.gazzettaobjects.it/rcs_gaz_gazzanet-layout/v1/css/pages/gazzetta/cards_desktop.css?v=566e9142cc152dc86fa5a676f2075b31" media="all" crossorigin="anonymous">
+  <style>:root {
+  --gn-primary: hsl(0, 78%, 52%);
+  --gn-primary-2: hsl(29, 96%, calc(58% - 2.5%));
+  --gn-primary-5: hsl(29, 96%, calc(58% - 5%));
+  --gn-primary-10: hsl(29, 96%, calc(58% - 10%));
+  --gn-primary-invert: hsl(0, 0%, 100%);
+  --gn-secondary: hsl(222, 53%, 37%);
+  --gn-tertiary: hsl(0, 0%, 97%);
+  --gn-bg-primary: hsl(0, 0%, 97%);
+  --gn-highlight: rgba(251, 144, 45, 0.5);
+  --gn-nav-pry: hsl(0, 78%, 52%);
+  --gn-nav-sec: white;
+  --gn-nav-icon: hsl(0, 78%, 52%);
+  --gn-nav-link: white;
+  --gn-nav-text: hsl(0, 78%, 52%);
+  --gn-nav-border: black;
+  --gn-menu-pry: hsl(0, 78%, 52%);
+  --gn-menu-link: hsl(0, 0%, 100%);
+  --gn-mosaic-foreground: black;
+  --family-gn-primary: barlow condensed;
+  --family-gn-primary-regular: barlow;
+  --family-gn-secondary: faustina;
+}</style>
+  <link href="https://components2.gazzettaobjects.it/rcs_gaz_gazzetta-layout/v2/gazzetta-common/assets/fonts/s/robotocondensed/v16/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYb9lecyU.woff2?v=8adf8345ebe704da6ff802ca22dc6047" rel="preload" as="font" type="font/woff2" crossorigin>
+  <link href="https://components2.gazzettaobjects.it/rcs_gaz_gazzetta-layout/v2/gazzetta-common/assets/fonts/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2?v=ece6673e477b4d7aca12f04dace5ed60" rel="preload" as="font" type="font/woff2" crossorigin>
+  <link href="https://components2.gazzettaobjects.it/rcs_gaz_gazzetta-layout/v2/gazzetta-common/assets/fonts/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2?v=709f6f90c7d493cd16b8cd087df492ab" rel="preload" as="font" type="font/woff2" crossorigin>
+  <link href="https://components2.gazzettaobjects.it/rcs_gaz_gazzetta-layout/v2/gazzetta-common/assets/fonts/s/robotocondensed/v16/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQk6YvM.woff2?v=559172ed7d0323c8bf838ab92b801e31" rel="preload" as="font" type="font/woff2" crossorigin>
+  <link href="https://components2.gazzettaobjects.it/rcs_gaz_gazzetta-layout/v2/gazzetta-common/assets/fonts/s/lato/v14/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2?v=bf912df22c6dc861e7a01c32fc165187" rel="preload" as="font" type="font/woff2" crossorigin>
+  <link href="https://components2.gazzettaobjects.it/rcs_gaz_gazzetta-layout/v2/gazzetta-common/assets/fonts/s/lato/v14/S6uyw4BMUTPHjx4wXiWtFCc.woff2?v=b27045292283a12723b217e203986aeb" rel="preload" as="font" type="font/woff2" crossorigin>
+  <link href="https://components2.gazzettaobjects.it/rcs_gaz_gazzetta-layout/v2/gazzetta-common/assets/fonts/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2?v=0b81348c81e06b7cb84c7856e13fdb4c" rel="preload" as="font" type="font/woff2" crossorigin>
+  <link href="https://components2.gazzettaobjects.it/rcs_gaz_gazzetta-layout/v2/gazzetta-common/assets/fonts/gazzetta-icons.ttf?v=29e151eeb0acd5df18ed9b5268dea9f6" rel="preload" as="font" type="font/woff2" crossorigin>
+  <link rel="manifest" href="/utils/pwa/sw/v1/assets/www.sosfanta.com/manifest.json" crossorigin="use-credentials">
+ </head>
+ <body data-newspaper="gazzetta" data-highlighted="">
+  <div id="rcsad_Position1" style="display:none">
+   <script type="text/javascript">window.eventDFPready?googletag.cmd.push(function(){googletag.display("rcsad_Position1")}):document.addEventListener("eventDFPready",function(o){googletag.cmd.push(function(){googletag.display("rcsad_Position1")})},!1)</script>
+  </div>
+  <div id="rcsad_Position7" style="display:none">
+   <script type="text/javascript">window.eventDFPready?googletag.cmd.push(function(){googletag.display("rcsad_Position7")}):document.addEventListener("eventDFPready",function(o){googletag.cmd.push(function(){googletag.display("rcsad_Position7")})},!1)</script>
+  </div><!--header-->
+  <header id="l-header">
+   <!--@ESI navbar START--><!--@ REQUEST URI :  /fe-includes/2019/SSI/external-template/gazzanet/navbar/default.shtml?partnerId=www.sosfanta.com&amp;device=desktop&amp;type=cards--><!--@ PARTNER ID: www.sosfanta.com--><!--@[rcs_prefix]: prd--><!--@[SERVER_NAME]: contents.gazzanetobjects.internal--><!--@Conf type prd --><!--@[CONFTYPE]: prd--><!--@ fe-include /fe-includes/2019/SSI--><!--@ service-include /service-includes/2019/SSI--><!--@ Type: cards--><!--@ Device: desktop-->
+   <div class="box-sponsor">
+    <div class="sponsor__content">
+     <span class="sponsor-text">Questo sito contribuisce alla audience de</span> <span class="icon has-text-white"><i class="icon-gazzetta-g-logo-gazzetta fa-1-7x"></i></span>
+    </div>
+   </div>
+   <div class="offset"></div>
+   <div class="bck-navbar" id="navbar" data-fixed="offset">
+    <div class="navbar__content">
+     <nav class="navbar is-partner-pry has-shadow">
+      <div class="container">
+       <a data-target="main" class="navbar-item" id="hamburger"><span class="icon"><i class="icon-gazzetta-g-menu fa-1x"></i></span></a>
+       <div class="navbar-menu">
+        <div class="navbar-partner">
+         <a class="navbar-item" href="https://www.sosfanta.com">
+          <figure class="image is--sosfanta">
+           <img alt="desc img" src="https://components2.gazzettaobjects.it/rcs_gaz_gazzanet-layout/v1/assets/img/ext/partners/www.sosfanta.com/logo-navbar-dsk.png?v=1ea07132f87f807d63dbb5f8d58e43eb">
+          </figure></a>
+        </div>
+        <div class="navbar-end">
+         <div class="navbar-item" id="login">
+          <a class="account-icon"><span class="icon"><i class="icon-gazzetta-g-usericon fa-1-5x"></i> </span></a>
+          <div class="bck-tooltip account fxr-between-top is-hidden">
+           <figure class="image">
+            <img>
+           </figure>
+           <div class="info fxc-center-left">
+            <a class="text" href="https://www.sosfanta.com/profilo/dati-personali/">Il tuo profilo</a><a class="text" id="logout">Log out</a>
+           </div>
+          </div>
+         </div><a class="navbar-item" href="https://www.sosfanta.com\notifiche"><span class="icon"><i class="icon-gazzetta-g-ic-notifications fa-1-5x"></i> </span></a>
+         <div class="navbar-item" data-target="search" id="cerca">
+          <span class="icon"><i class="icon-gazzetta-g-search-lens fa-1-5x"></i></span>
+         </div>
+         <div class="navbar-item is--active is-hidden" data-menu="search" id="cerca-tooltip">
+          <span data-target="searchClose" class="icon"><i class="icon-gazzetta-g-close-inverse fa-1-4x"></i> </span>
+          <form class="bck-tooltip search fxr-between-center" data-form="search" action="https://www.sosfanta.com/ricerca/">
+           <div class="underline_search_div">
+            <input placeholder="Cerca" type="search" value="" name="testo" id="search2018" autofocus>
+            <button class="search-icon"><span class="icon is-large"><i class="icon-gazzetta-g-search-lens fa-1-5x"></i></span></button>
+           </div>
+          </form>
+         </div><a class="navbar-item is--active is-hidden" id="close-hamburger"><span class="icon"><i class="icon-gazzetta-g-close-inverse fa-1-4x"></i></span></a>
+        </div>
+        <div class="navbar-brand">
+         <a class="navbar-item" href="https://www.gazzetta.it">
+          <figure class="image">
+           <span class="logo" style="background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDIzLjAuMiwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMiIgYmFzZVByb2ZpbGU9InRpbnkiIGlkPSJnYXp6ZXR0YUciCgkgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHZpZXdCb3g9IjAgMCA3Mi4xIDE4Ni42IgoJIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8cGF0aCBkPSJNMzIsMjUuOWMtNC43LDIuNi02LjUsNS45LTYuNSwxMi4zdjExNC4zYzAsNC40LDQuNyw4LjIsMTAuNiw4LjJjNi4yLDAsMTAuOC0zLjgsMTAuOC04LjJWOTkuMmgtNy4zCgljLTEuOCwwLTIuOS0xLjUtMi45LTIuOXYtMTJjMC0xLjUsMS4yLTIuOSwyLjktMi45aDI5LjZjMS44LDAsMi45LDEuNSwyLjksMy4ydjY1LjdjMCwyMC4yLTE1LjgsMzYuNC0zNi4xLDM2LjQKCUMxNi4xLDE4Ni42LDAsMTcwLjUsMCwxNTAuMlY0NC40YzAtMTMuMiwyLjEtMjQuNiw3LjYtMzIuNWMyLjEtMy41LDUuOS02LjcsOS40LTguNUMzMC4yLTQsNTEsMSw3MC43LDE1LjFjMS4yLDAuOSwxLjUsMS41LDEuNSwyLjYKCWMwLDAuMywwLDAuOS0wLjMsMS4ybC05LjQsMTVjLTAuNiwwLjktMS41LDEuNS0yLjYsMS41Yy0wLjksMC0xLjUtMC4zLTIuMS0wLjZDNDcuNSwyNi41LDM3LjgsMjIuNywzMiwyNS45TDMyLDI1Ljl6Ii8+Cjwvc3ZnPgo=')"></span>
+          </figure></a>
+        </div>
+       </div>
+      </div>
+     </nav>
+    </div>
+    <div data-menu="main" class="bck-gn-navbar-megamenu is-hidden">
+     <div class="container">
+      <div class="section-header">
+       <div class="navbar-item is--active is-hidden close-menu" id="close-hamburger" data-target="main">
+        <span class="icon"><i class="icon-gazzetta-g-close-inverse fa-1-7x"></i></span>
+       </div>
+       <figure class="image has--logo">
+        <img class="lazy" data-src="https://components2.gazzettaobjects.it/rcs_gaz_gazzanet-layout/v1/assets/img/ext/partners/www.sosfanta.com/logo-bannermenu-dsk.png?v=1ea07132f87f807d63dbb5f8d58e43eb">
+       </figure>
+      </div>
+      <ul class="section-content fxr-left-top">
+       <li class="list-item is--first-level"><a class="is--snow" href="https://www.sosfanta.com/">Home</a></li>
+       <li class="list-item is--first-level"><a class="is--snow" href="https://www.sosfanta.com/lista-formazioni/probabili-formazioni-serie-a/">Probabili Formazioni</a></li>
+       <li class="list-item is--first-level"><a class="is--snow" href="https://www.sosfanta.com/consigli-fantacalcio/">Consigli</a></li>
+       <li class="list-item is--first-level"><a class="is--snow" href="https://www.sosfanta.com/chi-schierare-fantacalcio/">Chi schierare</a></li>
+       <li class="list-item is--first-level"><a class="is--snow" href="https://www.sosfanta.com/scambi-fantacalcio/">Scambi</a></li>
+       <li class="list-item is--first-level"><a class="is--snow" href="https://www.sosfanta.com/news-formazioni/">Campi</a></li>
+       <li class="list-item is--first-level"><a class="is--snow" href="https://www.sosfanta.com/infortunati-serie-a/">Infortuni</a></li>
+       <li class="list-item is--first-level"><a class="is--snow" href="https://www.sosfanta.com/news/">News</a></li>
+       <li class="list-item is--first-level"><a class="is--snow" href="https://www.sosfanta.com/voti-fantacalcio/">Voti</a></li>
+       <li class="list-item is--first-level"><a class="is--snow" href="https://www.sosfanta.com/assist-fantacalcio/">Assist</a></li>
+       <li class="list-item"><span id="gzn_network" class="is-relative is-block has-cursor-pointer">I SITI DEL NOSTRO NETWORK<span class="icon is-small"><i id="gzn-network-arrow" class="icon-gazzetta-g-indicator-right fa-xs"></i></span></span>
+        <ul id="gzn_network_list" class="gzn_partner section-content is-hidden">
+         <li class="list-item is--first-level"><span id="gzn_network_close" class="is-relative is-block has-cursor-pointer"><span id="gzn-network-arrow-left" class="icon-gazzetta-g-arrow-left fa-sm is-block"></span>I SITI DEL NOSTRO NETWORK<span class="icon is-small"></span></span></li>
+         <li class="list-item"><a class="is--snow" href="https://www.calcionapoli1926.it">Calcionapoli1926</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.cittaceleste.it">Cittaceleste</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.derbyderbyderby.it">Derbyderbyderby</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.fantamagazine.com">Fantamagazine</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.fcinter1908.it">FCInter1908</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.forzaroma.info">Forzaroma</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.golssip.it">Golssip</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.hellas1903.it">Hellas1903</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.ilmilanista.it">Ilmilanista</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.ilposticipo.it">Ilposticipo</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.itasportpress.it">Itasportpress</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.juvenews.eu">Juvenews</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.mediagol.it">Mediagol</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.mondoudinese.it">Mondoudinese</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.notiziecalciomercato.eu">Notiziecalciomercato</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.numericalcio.it">Numericalcio</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.padovasport.tv">Padovasport</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.pianetamilan.it">Pianetamilan</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.sosfanta.com">SOS Fanta</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.toronews.net">Toronews</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.tuttobolognaweb.it">Tuttobolognaweb</a></li>
+         <li class="list-item"><a class="is--snow" href="https://www.violanews.com">Violanews</a></li>
+        </ul></li>
+      </ul>
+     </div>
+    </div>
+   </div><!--@ESI navbar END--><!-- bck-navbar-arrow-pry -->
+   <div class="bck-navbar is-fixed-top " id="navbar-read">
+    <div class="navbar__content">
+     <nav class="navbar is-partner-sec has-shadow">
+      <div class="container">
+       <nav class="bck-navigation fxr-between-center">
+        <a href="https://www.sosfanta.com/asta-fantacalcio/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/3/" class="navigation__left"><span class="button is-xsmall-p is-primary"><i class="icon-gazzetta-g-arrow-left fa-1x"></i></span></a>
+        <div class="navigation__content">
+         <h3 class="title is-4">4 <span> di </span> 7: CENTROCAMPISTI 1</h3>
+        </div><a href="https://www.sosfanta.com/asta-fantacalcio/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/5/" class="navigation__right"><span class="button is-xsmall-p is-primary"><i class="icon-gazzetta-g-arrow-right fa-1x"></i></span></a>
+       </nav><!-- menu start -->
+       <div class="navbar-social">
+        <div class="navbar-end">
+         <div class="bck-social-nav">
+          <div class="social">
+           <ul class="fxr-right-around has-colors is-horizontal">
+            <li class="social-item" data-uuid="610315"><span class="icon bookmark">
+              <div class="bck-tooltip fxr-center-center is-hidden">
+               <div class="info">
+                <p class="text">Salvato nella pagina "I miei bookmark"</p>
+               </div>
+              </div><i class="icon-gazzetta-g-bookmark-empty fa-2x has-text-white"></i>
+              <div class="bck-tooltip fxr-center-center is-hidden">
+               <div class="info">
+                <p class="text">Salvato nella pagina "I miei bookmark"</p>
+               </div>
+              </div></span></li>
+            <li class="social-item" data-social="fb"><span class="icon"><i class="icon-gazzetta-g-social-facebook-circle fa-2x"><span class="path1"></span><span class="path2"></span></i></span></li>
+            <li class="social-item" data-social="tw"><span class="icon"><i class="icon-gazzetta-g-social-twitter-circle fa-2x"><span class="path1"></span><span class="path2"></span></i></span></li>
+            <li class="social-item" data-social="wa"><span class="icon"><i class="icon-gazzetta-g-social-whatsapp fa-2x"><span class="path1"></span><span class="path2"></span></i></span></li>
+            <li class="social-item" data-social="more-header"><span class="icon"><i class="icon-gazzetta-g-more has-text-white fa-2x"></i></span></li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div><!-- end menu end -->
+      </div>
+     </nav>
+    </div>
+   </div><!-- bck-navbar-arrow-pry -->
+  </header><!--end header-->
+  <div id="rcsad_TopLeft_wrapper" style="text-align:center" class="bck-adv-sinpgn">
+   <div id="rcsad_TopLeft" class="rcsad_TopLeft hiddenTop is-pd-t-20 is-pd-b-20" style="display:none">
+    <script type="text/javascript">window.eventDFPready?googletag.cmd.push(function(){googletag.display("rcsad_TopLeft")}):document.addEventListener("eventDFPready",function(e){googletag.cmd.push(function(){googletag.display("rcsad_TopLeft")})},!1)</script>
+   </div>
+  </div><!--main-->
+  <main id="l-main">
+   <div class="wrapper">
+    <div class="container">
+     <br>
+     <div class="columns">
+      <div class="column is-2"></div>
+      <div class="column is-9 is-uppercase is-family-primary-regular is-pd-b-0">
+       <a href="/" class="has-text-black">sosfanta</a><span class="icon is-small"><i class="icon-gazzetta-g-indicator-right fa-xs"></i></span> <a href="/asta-fantacalcio" class="has-text-black has-text-weight-bold">asta-fantacalcio</a>
+      </div>
+     </div><!-- section header article -->
+     <section class="header-article is-mr-b-0">
+      <div class="bck-titles is-centered">
+       <div class="columns">
+        <div class="column is-2">
+         <div class="titles-left">
+          <p class="text is--medium-bold is-marginless">news</p>
+         </div>
+        </div>
+        <div class="column is-9">
+         <h1 class="title is--large" id="mainTitle">La Guida all’Asta aggiornata con novità, fasce, prezzi, slot e consigli per il fantacalcio</h1>
+        </div>
+       </div>
+      </div>
+     </section><!-- end section header article --><!-- section body article -->
+     <section class="body-article">
+      <div class="columns">
+       <div class="column is-6 is-offset-2">
+        <div class="content not-selectable-js"></div>
+        <div class="content fxr-between-top">
+         <div>
+          <div class="fxc-wrap fxr-left-center">
+           <div class="gzn_author_info">
+            <span class="gzn_authorname">Guglielmo Cannavale</span><span class="gzn_authorrole"></span>
+            <p class="is-above-copyright is-mr-t-0"><time datetime="2024-09-14T11:39:25+02:00"> 14 settembre 2024 (modifica il 14 settembre 2024 | 11:39) </time></p>
+           </div>
+          </div>
+         </div><time class="article-date" style="font-size: 0.938rem;" content="2024-09-14T06:45:41+00:00" datetime="2024-09-14"></time>
+        </div>
+       </div>
+      </div>
+      <div class="columns">
+       <div class="column is-8">
+        <div class="columns">
+         <aside class="column is-3">
+          <div class="has--bicolor-right">
+           <div class="bck-tile-category">
+            <a href="https://www.sosfanta.com/asta-fantacalcio/" class="tile-category__content fxr-center-around"><span class="icon is-xlarge has-text-black"><i class="icon-gazzetta-category-calcio fa-3x"></i></span><span class="title">Asta fantacalcio: tutte<br>
+              le notizie</span></a>
+           </div>
+           <script type="application/ld+json">
+[
+      {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+                { 
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Asta Fantacalcio",
+        "item": "https://www.sosfanta.com/asta-fantacalcio/"
+      }
+            ,          { 
+        "@type": "ListItem",
+        "position": 2,
+        "name": "La Guida Allasta Completa Per Il Fantacalcio 2024 25 La Divisione In Fasce E Chi Prendere",
+        "item": "https://www.sosfanta.com/asta-fantacalcio/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/"
+      }
+                  ,
+      { 
+        "@type": "ListItem",
+        "position": 3,
+        "name": "La Guida all’Asta aggiornata con novità, fasce, prezzi, slot e consigli per il fantacalcio"
+      }
+              ]
+    }
+      ]
+</script>
+           <div class="bck-social-nav">
+            <div class="social">
+             <ul class="fxc-center-right has-colors-mono has-mr-r">
+              <li class="social-item"><a href="https://www.sosfanta.com/asta-fantacalcio/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/commenti/"><span class="icon is-large"><i class="icon-gazzetta-g-commentbubble fa-2-7x"></i> <small class="g-icon-text is-small js-total-comments"></small></span></a></li>
+              <li class="social-item" data-social="fb"><span class="icon is-large"><i class="icon-gazzetta-g-social-facebook-circle fa-2x"><span class="path1"></span><span class="path2"></span></i></span></li>
+              <li class="social-item" data-social="tw"><span class="icon is-large"><i class="icon-gazzetta-g-social-twitter-circle fa-2x"><span class="path1"></span><span class="path2"></span></i></span></li>
+              <li class="social-item" data-social="more"><span class="icon is-large"><i class="icon-gazzetta-g-more fa-2x"></i></span></li>
+             </ul>
+            </div>
+           </div>
+          </div>
+         </aside>
+         <div class="column is-9">
+          <!-- bck-navigation-h -->
+          <nav class="bck-navigation fxr-between-center has-border">
+           <a href="https://www.sosfanta.com/asta-fantacalcio/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/3/" class="navigation__left"><span class="button is-xsmall-p is-primary"><i class="icon-gazzetta-g-arrow-left fa-1x"></i></span></a>
+           <div class="navigation__content is--centered">
+            <h3 class="title">4 <span> di </span> 7 <br>
+              CENTROCAMPISTI 1</h3>
+           </div><a href="https://www.sosfanta.com/asta-fantacalcio/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/5/" class="navigation__right"><span class="button is-xsmall-p is-primary"><i class="icon-gazzetta-g-arrow-right fa-1x"></i></span></a>
+          </nav><!-- bck-navigation-h -->
+          <div class="content">
+           <p><strong>TOP</strong>&nbsp;- Pulisic, Calhanoglu, Zaccagni, Man, Koopmeiners, Orsolini</p>
+          </div>
+          <div class="content">
+           <p>Si parte dai top e primi slot, quelli intorno ai 50 fantamilioni su 500 o poco meno. Con addirittura qualche picco fino a 60 in alcune leghe per uno tra Pulisic, Calhanoglu e Zaccagni, che sono i più costosi. Per <strong>Pulisic</strong> è cambiato il suo status al fanta dopo una super prima stagione al Milan da 12 gol e 7 assist. Non sarà facile ripetersi, ma intanto ha già segnato un gol. Pioli lo utilizzava principalmente come esterno destro, Fonseca lo vede anche a sinistra e da trequartista centrale Dopo una stagione così, è ancora un intoccabile anche nel nuovo Milan che sta nascendo. Fanta-media del 7,50, senza alcun rigore calciato. Un vero e proprio fattore per Milan e fantacalcio, un attaccante aggiunto. Ma a differenza di De Ketelaere e Gudmundsson è rimasto centrocampista. 13 gol e 3 assist l'anno scorso per <strong>Calhanoglu</strong>, già uno quest'anno. È il rigorista numero uno dell'Inter e questo incide molto, è un vero e proprio cecchino dal dischetto con 41 reti e solo 4 errori, all'Inter ha segnato tutti quelli che ha calciato. Fanta-media del 7,70, con 10 rigori segnati e 5 ammonizioni in campionato. Regista dei nerazzurri, è praticamente intoccabile per Inzaghi: se sta bene gioca e l'allenatore magari gli risparmia 20/30 minuti nel finale. Difficile che riposi inizialmente, se non in rari casi di turnover. Soltanto 6 gol e 1 assist l'anno scorso per <strong>Zaccagni</strong>, ha pagato diversi problemi fisici soprattutto nella seconda parte di stagione. Ma quest'anno è cambiato tutto. Dopo l'addio di Immobile, è stato nominato capitano e ha rinnovato, per Baroni è un giocatore fondamentale, partirà da sinistra nel 4-3-3 o 4-2-3-1, la posizione che predilige. Occhio anche ai rigori dopo gli addii di Immobile e Luis Alberto, è la prima scelta al momento: 5 su 5 in carriera. E si candida anche per le punizioni col suo destro, possono così aumentare i bonus, sia gol che assist. Due anni fa ricordiamo che era arrivato a 10 gol e 6 assist, quest'anno punta a tornare su questi livelli, almeno quota 15 tra gol e assist può e deve essere l'obiettivo di Zaccagni nella nuova Lazio che sta nascendo. Infortuni permettendo. Da limare anche l'aspetto ammonizioni: troppi gli 8 gialli della scorsa stagione per un esterno d'attacco come lui. 11 gol e 6 assist nell'ultimo campionato di Serie B per Dennis <strong>Man</strong>, grande protagonista nella promozione del Parma. Ha le carte in regola per essere un giocatore importante anche in Serie A e lo ha dimostrato nelle prime giornate con 2 gol, diciamo che tra tutti è probabilmente quello più indicato per essere 'il nuovo Gudmundsson' come caratteristiche. Un appellativo che avevamo dato a inizio agosto e che per ora si è confermato, anche se la stagione è lunga. Man è un esterno offensivo di piede mancino, utilizzato soprattutto sulla fascia destra da Pecchia. L'hype, che già c'era da prima, ora è inevitabile, il prezzo sale. Per noi comunque era già tra i primi slot prima, ancora di più adesso per chi fa l'asta a settembre. E un altro fattore sono i rigori, è in lista: 8 segnati su 11 in carriera, l'anno scorso 3 su 4 col Parma, anche se il primo specialista in B era Benedyczak e quest'anno in campionato ha calciato Bonny. Man ne ha tirato uno in Coppa Italia e lo ha sbagliato, col Napoli è andato appunto Bonny. Ma qualche rigore potrebbe comunque calciarlo nel corso della stagione.&nbsp;<strong>Koopmeiners</strong> alla fine è andato alla Juventus, dopo una lunghissima telenovela estiva. Era un top prima e lo resta in bianconero, anche se potrebbe avere qualche rigore in meno essendoci già Vlahovic che è la prima scelta. L'olandese è comunque uno specialista da 36 segnati su 43 in carriera, si piazza insieme a Douglas Luiz e Nico Gonzalez alle spalle di Dusan. Ora sarà anche in <em>hype</em> per via del trasferimento e il suo prezzo, sempre rimasto piuttosto alto, salirà ancora, arrivando ai 50 fantamilioni su 500. Koopmeiners sarà fondamentale per Motta, che lo ha chiesto fin dall'inizio: può ricoprire il ruolo che aveva Ferguson nel suo Bologna. Avrà una proiezione offensiva ma sarà un centrocampista totale, difficile dire se riuscirà ad arrivare ancora alla doppia cifra ma sicuramente ha molti bonus in canna, tra +3 e +1. Sarà tra i più pagati al fantacalcio, anche quest'anno.&nbsp;10 gol e 2 assist in 31 partite a voto per Riccardo <strong>Orsolini</strong>, che fa parte a pieno titolo dei top dopo le ultime stagioni. Leggermente meno costoso degli altri top ma comunque un primissimo slot al fanta,&nbsp;uno da doppia cifra. Anche ora che è arrivato Italiano in panchina al posto di Motta. Sulla carta, è il titolare sulla fascia destra e occhio anche al fattore rigori: è rimasto la prima scelta, ha già segnato alla prima. Il Bologna avrà anche la Champions e dunque occhio al turnover, sarà una novità per i giocatori rossoblù e Italiano alla Fiorentina cambiava praticamente sempre la formazione iniziale. La Champions e il turnover di Italiano tengono il suo prezzo al di sotto di quello di Zaccagni e gli altri top, ma comunque siamo lì.</p>
+          </div>
+          <div class="is-mr-b-20">
+           <div class="bck-adv rcsad_Middle1_container" id="rcsad_Middle1_container">
+            <div class="adv__content">
+             <div class="adv rcsad_Middle1_content is-autoxmin300" id="rcsad_Middle1"></div>
+            </div>
+           </div>
+          </div>
+          <div class="content">
+           <p><strong>SEMITOP ALTI</strong> - Barella, Neres</p>
+          </div>
+          <div class="content">
+           <p>È una stagione particolare perché il listone di centrocampo ha perso due top come De Ketelaere e soprattutto Gudmundsson, ora ci sono quelli sopra che saranno i più pagati e i primi slot, chi resta senza dovrà virare su un'altra strategia con un centrocampo più completo. Qui siamo intorno ai 30/35 fantamilioni. 2 gol e 3 assist per <strong>Barella</strong> l'anno scorso, in termini di bonus ha deluso le aspettative, ma è rimasta la sensazione che possa fare molto di più. Per i pochi bonus che ha portato la fanta-media del 6,53 è altissima. È un centrocampista particolare, praticamente un 6,5 fisso con anche picchi da 7 senza segnare. Le insufficienze sono rarissime. Il voto è garantito, anche quelle poche volte in cui fa turnover. È anche migliorato in un aspetto importante: i cartellini gialli. 7 l'anno scorso, in linea per il ruolo che ha e per il suo modo di giocare. L'obiettivo chiaro ora è incrementare il numero di gol e assist, passare magari da 5 a 10 in totale. Ha già iniziato bene con un assist e un super gol contro l'Atalanta, che fa salire il suo prezzo. La sua titolarità da mezzala destra non è in discussione, anche se c'è Frattesi che scalpita, Barella parte avanti e rimane un quasi intoccabile per Inzaghi in partenza. <strong>David</strong>&nbsp;<strong>Neres</strong> è il rinforzo del Napoli per la trequarti. È un esterno d’attacco, con Conte giocherà nel 3-4-2-1, insieme a Kvaratskhelia alle spalle della punta. Il ballottaggio è quindi con Politano, si giocano una maglia.&nbsp;Neres aumenterà pian piano il suo minutaggio fino ad arrivare forse alla maglia da titolare, anche se ci sarà sempre il ballottaggio con Politano. Nei due spezzoni fin qui ha fatto molto bene, realizzando 2 assist. È un acquisto molto importante per il Napoli, da 28 milioni più bonus. Classe ’97, è nel pieno della maturità. Brasiliano, mancino di piede, nasce come ala destra ma l’anno scorso ha giocato di più a sinistra e può svariare su tutto il fronte. Giocatore molto offensivo e di fantasia, listato centrocampista diventa interessante al fantacalcio. 5 gol e 8 assist in campionato nell’ultima stagione con il Benfica (solo 12 da titolare), 6 gol e 10 assist in quella prima. In precedenza ha giocato all’Ajax, dove aveva fatto la stagione migliore con 14 gol e 13 assist. Esperienza internazionale con 8 gare con il Brasile e 71 partite (e 15 gol) nelle coppe europee. Neres non è un rigorista, può essere al massimo un jolly per i piazzati. Poche ammonizioni, in linea con il suo ruolo. È abbastanza incline agli infortuni: problema al menisco l’anno scorso e anche uno muscolare, 131 giorni saltati. Una decina di partite saltate anche nel 2022-23 e nel 2020-21. Il più grave al ginocchio nel 2019, aveva perso quasi un anno. In termini di asta, per Neres c'è subito <em>hype</em> e il prezzo sarà alto, grazie ai 2 assist.</p>
+          </div>
+          <div class="is-mr-b-50 is-mr-t-50">
+           <div class="bck-adv">
+            <div class="adv__content">
+             <div class="adv is-autoxmin300">
+              <div id="rcsad_Bottom1" style="width:100%; aspect-ratio: 1/1;">
+               <script type="text/javascript">window.eventDFPready?googletag.cmd.push(function(){googletag.display("rcsad_Bottom1")}):document.addEventListener("eventDFPready",function(o){googletag.cmd.push(function(){googletag.display("rcsad_Bottom1")})},!1)</script>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="content">
+           <p>🔥 <a href="https://fantalab.it/SOS" target="_blank" rel="noopener"><strong><em>Sfidaci al fantacalcio su Fantalab Manager</em></strong></a></p>
+          </div>
+          <div class="content">
+           <p><strong>SEMITOP BASSI</strong> - Samardzic, Politano, Conceicao, Pellegrini, Douglas Luiz, Colpani, McTominay, Loftus-Cheek, Fabbian</p>
+          </div>
+          <div class="content">
+           <p>Si scende ai secondi slot, sui 20-25 fantamilioni come prezzo. <strong>Samardzic</strong> ha cambiato pelle ed è passato dall’Udinese all’Atalanta. In chiave fantacalcio cambia un po’ il suo status, ma comunque in linea di massima rimane il Samardzic degli ultimi anni a livello di prezzo, ovvero un centrocampista molto importante, siamo sui semitop/secondo slot, prezzo intorno ai 25 fantamilioni su 500. Ci sono però alcune differenze rispetto agli ultimi anni. Nelle ultime due stagioni ha fatto 5 e 6 gol, portando in tutto 6 assist. Il giocatore era quello, uno da 5-6 gol con 2-3 assist, con piazzati e voto quasi sicuro al netto di qualche panchina inaspettata, in una squadra non di alta classica con molte partite difficili sulla carta (ma lui ha sempre fatto bene nel big match). A volte poteva prendere delle insufficienze, altre segnava magari all’Inter e i fantallenatori lo lasciavano in panchina. E in più c’era sempre l’ombra del mercato, anche a gennaio. Insomma, il prezzo era comunque in linea coi bonus. Ora è diverso. All’Atalanta riparte da zero. Ma potrebbe anche esplodere, portando molti più bonus. Il fattore Gasperini potrebbe davvero pesare, Samardzic può essere l’uomo giusto al posto giusto: trequartista al posto di Koopmeiners, in una squadra che produce calcio e occasioni. Può fare più assist, può tirare comunque ancora dei piazzati ed è uno specialista. Probabilmente non i rigori, non parte come prima scelta ma come alternativa in lista. In carriera 19 segnati su 19 ma 18 nelle giovanili, uno solo all’Udinese. Però punizioni e corner può calciarli da prima scelta o una delle prime. Il posto da titolare non è garantito, si giocherà una maglia e ci sarà alternanza. Ma può valere questo “rischio” e può compensare qualche s.v. coi bonus, che potranno arrivare se avrà continuità. <strong>Politano</strong> nel Napoli è stato tra i pochissimi a fare bene nella scorsa stagione: 8 gol e 7 assist in 37 partite a voto per lui, 2 rigori segnati e uno sbagliato, anche un'espulsione che ha fatto abbassare la fanta-media al 6,89 finale. Con Conte è partito come titolare ma la società ha preso David Neres, con cui si giocherà il posto e potrebbe perdere spazio alla lunga. Il prezzo all'asta era alto ma ora cala&nbsp;per via della concorrenza dell'ex Benfica. Politano rimane comunque un giocatore importante per Conte e avrà spazio, non parte "battuto" nel ballottaggio, se la giocherà. Col suo mancino, batte anche punizioni e corner, per i rigori è il vice di Lukaku. Alla Juve è arrivato Francisco <strong>Conceicao</strong>, che si è subito infortunato e tornerà tra fine settembre e inizio ottobre. È un giocatore molto offensivo che di base fa l'ala destra come ruolo. Magari non sarà titolare fisso e dovrà giocarsi il posto come gli altri giocatori offensivi (come Nico Gonzalez), ma può portare bonus e al fanta è favorito anche dal ruolo nel listone di centrocampista. 5 gol e 4 assist in campionato l'anno scorso, è anche un buon jolly a gara in corso per caratteristiche. Mancino puro, alto 1,70 m, è veloce e bravo nel dribbling. Ha solo 21 anni e ha ampi margini di crescita. Ha segnato un gol all'Europeo con il Portogallo. Il difetto sono i troppi cartellini per il ruolo che ha: 9 gialli e un rosso in campionato l'anno scorso. Lorenzo <strong>Pellegrini</strong> non è partito bene quest'anno e il prezzo cala, l'anno scorso aveva chiuso con 8 gol e 3 assist, di cui solo 2 reti con Mourinho.&nbsp;Un rendimento importante, sappiamo bene che il suo problema sono i frequenti infortuni. Se sta bene, per De Rossi è un intoccabile e può star fuori dalle rotazioni ogni tanto solo per riposare visti gli impegni ravvicinati. Nella nuova Roma, può giocare sia come trequartista che come mezzala, De Rossi lo vede in entrambe le posizioni. Senza gli infortuni sarebbe anche un semitop alto perché tira i piazzati e se li divide con Dybala. Però il prezzo è leggermente sotto perché si mettono già in preventivo alcune partite saltate per problemi fisici. <strong>Douglas Luiz</strong> è un centrocampista importante nella Juve, nonostante le panchine iniziali che fanno calare il suo prezzo e non di poco. Dopo la sosta giocherà di più ma nella Juve di Motta nessuno - o quasi - è intoccabile o titolare fisso. Nell'ultima stagione all'Aston Villa, Emery utilizzava il 4-2-3-1 e Douglas Luiz ha giocato nei due di centrocampo. Motta invece lo può schierare sia lì che sulla trequarti. È un calciatore integro fisicamente. Nel 2023/24, è diventato il rigorista dell’Aston Villa. 5 gol e un errore, in precedenza ne aveva calciati soltanto due in nazionale (uno segnato e uno no). Nella Juve parte dietro a Vlahovic ma è nella lista dei rigoristi insieme a Koopmeiners e Nico Gonzalez. Più corner che punizioni per Douglas Luiz, che ha un buon piede. È infatti un centrocampista da bonus perché ha portato quasi 50 tra gol e assist (22 gol e 24 assist) in 204 partite con l'Aston Villa, di cui solo 5 su rigore. Oltre che essere un giocatore da rendimento, quindi bonus a parte. <strong>Colpani</strong> nel nuovo 3-4-2-1 della Fiorentina ricopre il ruolo di trequartista sulla destra, quello che ha già ricoperto al Monza e conosce a memoria visto che l'allenatore è proprio Palladino. Arriva da una stagione con 38 partite su 38, di cui 36 da titolare, con 8 gol, 4 assist e 6,92 di fanta-media. L'inizio alla Fiorentina però non è stato all'altezza della scorsa stagione al Monza, adesso si è svalutato. Dopo la sosta potrà migliorare, come tutta la squadra, ma intanto va registrato questo calo di prezzo e di valutazione nelle aste. <strong>McTominay</strong> è un centrocampista dotato di un grande fisico e un ottimo senso per gli inserimenti in area di rigore. Ha chiuso la scorsa stagione con 10 gol in 43 presenze fra tutte le competizioni con il Manchester United. È il giocatore simbolo della Scozia, per lui 9 reti in 52 presenze in nazionale. Per il Napoli e per il fantacalcio sarà un giocatore importante, un centrocampista di sostanza ma anche da bonus. Si giocherà una maglia con Anguissa ma ha più bonus di Zambo, alla lunga può essere lui il titolare. <strong>Loftus Cheek</strong> è più sul secondo slot con prezzo intorno ai 20, per lui 6 gol e 1 assist alla prima stagione al Milan. È stato frenato da qualche problema fisico di troppo, ma meno rispetto a quelli accusati in passato al Chelsea. Ha trovato continuità, ora vuole fare ancora bene. Nel 4-2-3-1 può giocare sia da mediano che trequartista, può fare entrambi i ruoli e quindi trovare spesso spazio anche con Fonseca. Quando gioca nei due mediani però è più lontano dalla porta e si inserisce di meno. Occhio a <strong>Fabbian</strong> nel Bologna, ha le carte in regola per essere 'il Bonaventura rossoblù' di Italiano. Sia mezzala che all'occorrenza trequartista o anche mediano, coi suoi inserimenti ha già dimostrato di saper andare a bonus l'anno scorso (5 gol e 1 assist in sole 22 partite a voto). E si è confermato quest'anno con un gol in tre partite. Possono aumentare le gare a voto e anche da titolare, resta comunque un giovane in rampa di lancio e sappiamo che Italiano nocn ha gerarchie fisse, cambia spesso (così per lo meno faceva a Firenze). Fabbian è un giocatore da mettere sempre o quasi se lo avete in rosa, basta avere una copertura sicura. Può portare bonus sia dall'inizio che a gara in corso, lo ha già dimostrato. Potrà giocare anche al rientro di Ferguson.</p>
+          </div>
+          <div class="is-mr-b-20">
+           <div class="bck-adv rcsad_BottomRight_x_container" id="rcsad_BottomRight_x_container_1">
+            <div class="adv__content is--hero bg--dark">
+             <div class="adv rcsad_BottomRight_x_content is-autoxmin300" id="rcsad_BottomRight_x_1"></div>
+            </div>
+           </div>
+          </div>
+          <div class="content">
+           <p><strong>SOTTO AI SEMITOP</strong> - Mkhitaryan, Ederson, Pasalic, Brescianini</p>
+          </div>
+          <div class="content">
+           <p>Siamo più verso il terzo slot, come prezzi intorno ai 15 fantamilioni su 500. 2 gol e 6 assist l'anno scorso per <strong>Mkhitaryan</strong> all'Inter, ma il dato che stupisce sono le partite a voto: addirittura 36. Inzaghi non ha praticamente mai rinunciato all'armeno, nemmeno a campionato già vinto. Ora è arrivato Zielinski e Mkhitaryan potrà riposare qualche volta in più, ma in partenza l'ex Roma resta la mezzala sinistra titolare, è un fedelissimo dell'allenatore nerazzurro e per il polacco non sarà facile insidiare la sua titolarità. Anche se dovesse partire qualche volta in meno da titolare, a voto ci può andare quasi sempre. <em>Regolarista</em> vero. Stagione da 6 gol e 1 assist per <strong>Ederson</strong> all'Atalanta, giocando nei due mediani. Numeri importanti, quest'anno proverà a ripetersi, magari con qualche ammonizione in meno (8 nello scorso campionato, non poche). Per essere un giocatore che agisce principalmente davanti alla difesa, sono numeri importanti e non sarà facile tenere questi ritmi in zona bonus (soprattutto per i gol). <strong>Pasalic</strong> è un centrocampista da bonus da anni: sia trequartista che mediano nell'Atalanta, ultimamente più spesso arretrato che avanzato. 6 assist e 6 gol in 33 partite a voto, fanta-media del 6.89. Numeri importanti. Se lo avete in rosa, potete metterlo sempre: basta avere una copertura sicura per non correre rischi. Ma a voto ci va quasi sempre come dimostrano i numeri e da anni regala bonus e soddisfazioni ai fantallenatori. L'eccezione a Torino, quando ha sbagliato il rigore. <strong>Brescianini</strong> arriva da un'ottima stagione al Frosinone e l'Atalanta ci punta molto, lo ha soffiato al Napoli. Segno di come la società lo abbia voluto fortemente. Ci punta anche Gasperini, che a Lecce lo aveva subito schierato dopo paghi allenamenti. Quella doppietta lo ha fatto salire molto come valutazione al fantacalcio, costa molto di più ma comunque può ancora fare gol e assist, oltre ad avere buon minutaggio. Nell'Atalanta sono praticamente tutti jolly ma avrà parecchio spazio, andrà quasi sempre a voto.</p>
+          </div>
+          <div class="content">
+           <p><strong>JOLLY PRIMA FASCIA</strong> - Frattesi, Zielinski, Chukwueze, Zaniolo</p>
+          </div>
+          <div class="content">
+           <p>Categoria particolare di jolly con secondi slot bassi o terzi. Prezzo anche qui tra i 15 e i 20 fantamilioni su 500, il meno costoso è Zaniolo per via dei problemi fisici. Nella scorsa stagione <strong>Frattesi</strong> è andato a voto in 28 occasioni nell'Inter, ma solo in 6 di queste da titolare. Per lui 6 gol, 3 assist e 1 ammonizione con fanta-media importantissima del 7 spaccato. In rapporto al minutaggio, ha fatto benissimo, ma si aspettava lui stesso di giocare di più, soprattutto da titolare. Potrà giocare un po' di più nella nuova stagione ma sarà sempre jolly, non titolare fisso. E l'Inter ha preso pure Zielinski. Ma Frattesi a voto ci andrà quasi sempre e ha dimostrato di poter portare bonus sia dall'inizio che a gara in corso, anche in questo campionato (assist al Genoa). <strong>Zielinski</strong> arriva all'Inter dopo una delle stagioni più deludenti al Napoli (in generale per tutta la squadra). 3 gol e 2 assist in 27 partite a voto, ma è stata un'annata particolare, soprattutto quando si è capito che non avrebbe rinnovato. È approdato nel mondo nerazzurro con grande entusiasmo e in partenza è l'alternativa a Mkhitaryan nel ruolo di mezzala sinistra. Non sarà affatto semplice togliere il posto all'armeno, fedelissimo di Inzaghi. Zielinski ci proverà e soprattutto inizialmente dovrà farsi trovare pronto quando verrà impiegato, sia dal 1' che a gara in corso. A voto comunque ci andrà spesso, è stato preso per permettere all'armeno di riposare più spesso. Uno dei più costosi in questa fascia è <strong>Chukwueze</strong>, che quest'anno avrà più spazio nel Milan ma rimane un jolly al momento. 1 gol e 1 assist in 16 partite a voto l'anno scorso, quest'anno prova a svoltare. Fonseca lo vede a destra, nel suolo ruolo. Non è sicuro che Chukwueze diventi un titolare inamovibile del Milan, ma si candida per trovare sicuramente maggior spazio e dunque per arrivare a totalizzare più bonus a fine stagione.&nbsp;<strong>Zaniolo </strong>è il meno costoso al momento per via dei problemi fisici, prenderlo a troppo può anche essere un rischio. Il&nbsp;suo problema sono proprio gli infortuni. La sua miglior stagione in carriera è lontana e risale ai tempi della Roma: 7 gol e 8 assist in 28 partite nel 2021/22 in giallorosso. Al Galatasaray 5 gol in 10 partite di campionato, poi l’anno scorso ha trovato davvero poco spazio all’Aston Villa. Torna con grandissima voglia, la concorrenza nell’Atalanta c'è, dovrà essere bravo a farsi trovare pronto quando verrà impiegato da Gasperini. Può giocare sia sulla trequarti che come seconda punta o ala, all’occorrenza anche come falso nove. Non ha il posto da titolare garantito, anzi, parte come alternativa e dovrà poi essere bravo lui a ritagliarsi il suo spazio, a gara in corso e dall'inizio. Ma al fantacalcio lo sappiamo, la conferma è arrivata anche l'anno scorso con De Ketelaere: Gasperini spesso fa miracoli. Il punto fondamentale però è che stia bene, quindi serve un po' di prudenza per gli infortuni.</p>
+          </div>
+          <div class="is-mr-b-20">
+           <div class="bck-adv rcsad_BottomRight_x_container" id="rcsad_BottomRight_x_container_2">
+            <div class="adv__content is--hero bg--dark">
+             <div class="adv rcsad_BottomRight_x_content is-autoxmin300" id="rcsad_BottomRight_x_2"></div>
+            </div>
+           </div>
+          </div>
+          <div class="content">
+           <p><strong>POSSIBILI SORPRESE</strong> - Bernabé, Maldini, Nico Paz</p>
+          </div>
+          <div class="content">
+           <p>Ecco le possibili sorprese, giocatori dal prezzo vario che però possono sorprendere. Bernabé il più costoso intorno ai 15 su 500, poi Maldini sui 10-15 e Nico Paz sui 5-10.&nbsp;<strong>Bernabé</strong> arriva da una stagione da 33 presenze, 8 gol e 3 assist col Parma. È cresciuto nel Barcellona e nel Manchester City, è un giocatore di qualità, tecnico, di talento, ha dribbling, visione di gioco e la capacità di incidere con le sue geometrie sempre vincenti. Maglia numero dieci e sinistro magico sono un ottimo biglietto da visita: ha tutto per esplodere e diventare un talento di enorme prospettiva anche in chiave fantacalcio. Daniel<strong> Maldini</strong> ha realizzato 4 gol e 1 assist con la maglia del Monza nella seconda parte di stagione e il club lo ha preso a titolo definitivo in estate. Ora è un titolare e porta bonus, è molto bravo anche sui piazzati come i calci di punizione. L'inizio è convincente, subito un gol dalla distanza contro la Fiorentina. E il prezzo sale. <strong>Nico Paz</strong> al fantacalcio è la classica scommessa giovane, una possibile sorpresa: profilo sicuramente interessante per l'asta. Il talento di nazionalità argentina ma nato in Spagna è un 2004 ed è molto giovane, ma è già pronto. La garanzia: arriva dal Real Madrid. Con la seconda squadra dei <em>Blancos </em>ha segnato ben 10 gol in 29 partite, ma ci si ricorda soprattutto la rete segnata al Napoli in Champions League con la prima squadra. Un solo gol è arrivato su rigore, due calciati in carriera, non è ancora uno specialista. Da capire come lo impiegherà Fabregas, è molto duttile: può giocare da trequartista o da ala. Ora c'è il 4-4-2 ma dopo la sosta si potrebbe vedere il 4-3-3.</p>
+          </div>
+          <div class="content">
+           <p><strong>OTTIMI CENTROCAMPISTI</strong> - Pessina, Reijnders, Suslov, Ndoye, Ferguson, K. Thuram, Strefezza, Saelemaekers, Ilic</p>
+          </div>
+          <div class="content">
+           <p>Arriviamo ai terzi/quarti slot. Come prezzo ci aggiriamo intorno ai 10 fantamilioni su 500, poi sono giocatori molto diversi quindi si può anche salire o scendere a seconda dei nomi. Nella scorsa stagione <strong>Pessina</strong> nel Monza è andato a voto in 37 occasioni, tutte da titolare: per lui 6 gol, 2 assist, 3 ammonizioni, un'espulsione e un rigore sbagliato con fanta-media del 6.46. Un intoccabile per Palladino e lo è anche per Nesta, è il capitano della squadra. Occhio al ruolo: prima giocava anche sulla trequarti, col nuovo allenatore ha giocato solo nei due in mediana, quindi più lontano dalla zona bonus. Ma è comunque il rigorista della squadra con 13 rigori segnati in carriera e un solo errore e questo per il fanta è sempre un fattore molto importante e da non sottovalutare. Un buon titolare in chiave asta è <strong>Reijnders</strong> nel Milan, reduce da una prima stagione in rossonero da 3 gol e 4 assist in 36 partite a voto. Pioli lo metteva praticamente sempre in mediana, con Fonseca il ruolo non cambia e l'olandese proverà a ripetere i numeri della passata stagione con la speranza di portare qualche bonus in più. Magari con qualche ammonizione in meno, visto che ha chiuso il campionato a quota 8 gialli. Non gode ora di grande hype visto l'inizio del Milan.&nbsp;3 gol e 5 assist in 30 partite a voto per <strong>Suslov</strong>, esploso nel Verona soprattutto nella seconda metà della stagione. Anche un rigore segnato, ma la gerarchia del dischetto rimane aperta (uno l'ha tirato Tengstedt). Può puntare alla doppia cifra tra gol e assist, nel 4-2-3-1 può agire sia come trequartista centrale che sulla fascia destra. Con un occhio alle ammonizioni: un po' troppi i 7 gialli per la posizione che occupa in campo. Nella scorsa stagione <strong>Ndoye</strong> nel Bologna è andato a voto in 31 occasioni, 20 di queste da titolare: per lui 1 gol, 1 assist e 4 ammonizioni. Stagione non particolarmente brillante al fantacalcio, ma ha chiuso in crescita e si è visto anche agli Europei con la sua Svizzera. Può diventare un giocatore importante con Italiano, gioca sia a destra che a sinistra. L'infortunio ha fatto abbassare il suo prezzo ma è guarito ora. <strong>Ferguson</strong> inizia la stagione da infortunato dopo l'intervento al crociato del ginocchio destro della scorsa primavera. Proverà a tornare in campo a fine ottobre, come ha dichiarato lui stesso, e una volta che rientrerà potrà essere molto importante per Italiano. È stato anche aggiunto in lista Champions.&nbsp;L'incognita è la condizione fisica dopo il lungo stop. Ha chiuso la scorsa stagione al fantacalcio con 6 gol e 3 assist, ovviamente quando sta bene è molto più in alto come fascia. Quindi può essere anche un'occasione all'asta. Sempre con un minimo di prudenza perché rientra da un infortunio grave come la rottura del crociato. Necessitate dunque di un reparto completo e con molti titolari. Khephren <strong>Thuram</strong> è uno dei volti nuovi di casa Juventus, è arrivato per rinforzare il centrocampo di Motta. Nei piani dell'allenatore e del club gioca davanti alla difesa come titolare. In zona gol, la sua miglior stagione è stata quella 2021/22: 4 reti e 3 assist. 2 reti e 4 assist nel 2022/23, 1 gol e 1 assist nell'ultima stagione invece. Non è troppo da bonus, ma è un regolarista. Ha recuperato dall'infortunio durante la sosta e alla ripresa ci sarà. 3 gol e 2 assist in 15 partite per <strong>Strefezza</strong> a Como nella seconda parte di stagione. A Lecce nella prima parte un gol in 19 partite per lui, che si è trasferito nel mercato invernale ed è stato importante per la promozione in Serie A della squadra di Fabregas. Tutti abbiamo ancora in mente gli 8 gol e 4 assist della stagione precedente, sempre al Lecce: proverà a ripetersi, la doppia cifra tra gol e assist è un suo obiettivo visto che gioca in fascia e ha una proiezione offensiva. All'asta non parte più in <em>hype</em> come l'anno scorso, ma ha comunque un buon prezzo. <strong>Saelemaekers</strong> arriva alla Roma per avere molto spazio, può essere il potenziale titolare come ala sinistra. A livello di fantacalcio può garantire dei bonus, come l’anno scorso al Bologna. Vista l’abbondanza a destra, è a sinistra che proverà a prendersi una maglia da titolare e potrebbe riuscirci visto che la concorrenza non è troppa, poi dipenderà anche dal modulo di De Rossi. <strong>Ilic</strong> sembrava a un passo dallo Zenit in estate, poi è rimasto e Vanoli lo ha valorizzato. Adesso è titolare e ha fatto bene a inizio stagione. 1 gol e 3 assist l'anno scorso, già un gol quest'anno. Si candida a battere sia punizioni che corner, ma con Vanoli si sgancia anche con blitz offensivi che lo rendono interessante al fantacalcio.</p>
+          </div>
+          <div class="is-mr-b-20">
+           <div class="bck-adv rcsad_BottomRight_x_container" id="rcsad_BottomRight_x_container_3">
+            <div class="adv__content is--hero bg--dark">
+             <div class="adv rcsad_BottomRight_x_content is-autoxmin300" id="rcsad_BottomRight_x_3"></div>
+            </div>
+           </div>
+          </div><!-- bck-navigation-f -->
+          <nav class="bck-navigation fxr-between-center">
+           <a href="https://www.sosfanta.com/asta-fantacalcio/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/3/" class="navigation__left"><span class="button is-small-p is-primary"><i class="icon-gazzetta-g-arrow-left fa-1x"></i></span></a><a href="https://www.sosfanta.com/asta-fantacalcio/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/5/" class="navigation__right">
+            <div class="buttons">
+             <span class="button is-primary"><strong> Continua </strong></span><span class="button is-small-p is-primary"><i class="icon-gazzetta-g-arrow-right fa-1x"></i></span>
+            </div></a>
+          </nav><!-- bck-navigation-f --><!-- bck-carousel -->
+          <div class="bck-carousel fxr-center-center" data-indexcard="3">
+           <span class="icon is-small"><i class="icon-gazzetta-g-indicator-left fa-1x"></i></span>
+           <div class="carousel__list">
+            <div class="fxr-between-center">
+             <ul class="fxr-between-bottom js-init-cards">
+              <li class="bck-carousel-text ">
+               <p class="title"><a href="https://www.sosfanta.com/asta-fantacalcio/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/" class="has-text-black">PORTIERI</a></p></li>
+              <li class="bck-carousel-text ">
+               <p class="title"><a href="https://www.sosfanta.com/asta-fantacalcio/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/2" class="has-text-black">DIFENSORI 1</a></p></li>
+              <li class="bck-carousel-text ">
+               <p class="title"><a href="https://www.sosfanta.com/asta-fantacalcio/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/3" class="has-text-black">DIFENSORI 2</a></p></li>
+              <li class="bck-carousel-text is--active">
+               <p class="title"><a href="https://www.sosfanta.com/asta-fantacalcio/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/4" class="has-text-black">CENTROCAMPISTI 1</a></p></li>
+              <li class="bck-carousel-text ">
+               <p class="title"><a href="https://www.sosfanta.com/asta-fantacalcio/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/5" class="has-text-black">CENTROCAMPISTI 2</a></p></li>
+              <li class="bck-carousel-text ">
+               <p class="title"><a href="https://www.sosfanta.com/asta-fantacalcio/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/6" class="has-text-black">ATTACCANTI 1</a></p></li>
+              <li class="bck-carousel-text ">
+               <p class="title"><a href="https://www.sosfanta.com/asta-fantacalcio/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/7" class="has-text-black">ATTACCANTI 2</a></p></li>
+             </ul>
+            </div>
+           </div><span class="icon is-small"><i class="icon-gazzetta-g-indicator-right fa-1x"></i></span>
+          </div><!-- end bck-carousel -->
+          <div class="content fxr-between-top">
+           <div class="bck-copyright">
+            <p class="is-copyright">© RIPRODUZIONE RISERVATA</p>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="columns">
+         <div class="column is-9 is-offset-3">
+          <div id="rcsad_Position3" style="display:none">
+           <script type="text/javascript">window.eventDFPready?googletag.cmd.push(function(){googletag.display("rcsad_Position3")}):document.addEventListener("eventDFPready",function(o){googletag.cmd.push(function(){googletag.display("rcsad_Position3")})},!1)</script>
+          </div>
+          <div class="taboola-widget-1">
+           <div id="taboola-below-other-thumbnails"></div>
+           <script type="text/javascript">window._taboola=window._taboola||[],_taboola.push({mode:"thumbs-feed-01-a",container:"taboola-below-other-thumbnails",placement:"Below Other Thumbnails",target_type:"mix"})</script>
+          </div>
+         </div>
+        </div>
+       </div>
+       <aside class="column is-4">
+        <div class="fxc-top-right has-offset sticky-top-container-video">
+         <div class="sticky-top-video is-bck-fullwidth">
+          <div class="bck-adv">
+           <div class="adv__content">
+            <div class="adv is-300x600" id="rcsad_Frame1" style="display:none">
+             <script type="text/javascript">window.eventDFPready?googletag.cmd.push(function(){googletag.display("rcsad_Frame1")}):document.addEventListener("eventDFPready",function(e){googletag.cmd.push(function(){googletag.display("rcsad_Frame1")})},!1)</script>
+            </div>
+           </div>
+          </div>
+          <div style="display: none;" id="taboola-right-rail-thumbnails-category"></div>
+          <div class="bck-adv">
+           <div class="adv__content">
+            <div class="adv is-autoxmin300" id="rcsad_Bottom2">
+             <script type="text/javascript">window.eventDFPready?googletag.cmd.push(function(){googletag.display("rcsad_Bottom2")}):document.addEventListener("eventDFPready",function(o){googletag.cmd.push(function(){googletag.display("rcsad_Bottom2")})},!1)</script>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="fxc-top-right has-offset sticky-top-container">
+         <div class="sticky-top is-bck-fullwidth">
+          <div class="bck-adv">
+           <div class="adv__content">
+            <div class="adv is-300x250">
+             <div id="gazzanet_box_01"></div>
+            </div>
+           </div>
+          </div>
+          <div class="bck-adv" id="rcsad_Frame2_container">
+           <div class="adv__content">
+            <div class="adv is-300x250" id="rcsad_Frame2" style="display:none">
+             <script type="text/javascript">window.eventDFPready?googletag.cmd.push(function(){googletag.display("rcsad_Frame2")}):document.addEventListener("eventDFPready",function(e){googletag.cmd.push(function(){googletag.display("rcsad_Frame2")})},!1)</script>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="fxc-top-right has-offset sticky-top-container">
+         <div class="sticky-container-bottom is-bck-fullwidth">
+          <div class="bck-adv">
+           <div class="adv__content">
+            <div class="adv is-300x250" id="rcsad_BottomRight" style="display:none">
+             <script type="text/javascript">window.eventDFPready?googletag.cmd.push(function(){googletag.display("rcsad_BottomRight")}):document.addEventListener("eventDFPready",function(t){googletag.cmd.push(function(){googletag.display("rcsad_BottomRight")})},!1)</script>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="fxc-top-right has-offset sticky-top-container">
+         <div class="sticky-top is-bck-fullwidth">
+          <div class="bck-adv" id="rcsad_Frame3_container">
+           <div class="adv__content">
+            <div class="adv is-300x250" id="rcsad_Frame3" style="display:none">
+             <script type="text/javascript">window.eventDFPready?googletag.cmd.push(function(){googletag.display("rcsad_Frame3")}):document.addEventListener("eventDFPready",function(e){googletag.cmd.push(function(){googletag.display("rcsad_Frame3")})},!1)</script>
+            </div>
+           </div>
+          </div>
+          <div id="taboola-right-rail-thumbnails-cards-2"></div>
+         </div>
+        </div>
+        <div class="fxc-top-right has-offset sticky-container-bottom-outer">
+         <div class="sticky-top is-bck-fullwidth">
+          <div class="bck-adv rcsad_Frame3_x_container" id="rcsad_Frame3_x_container_1">
+           <div class="adv__content is--hero bg--dark">
+            <div class="adv rcsad_Frame3_x_content is-300x250" id="rcsad_Frame3_x_1" style="display:none"></div>
+           </div>
+          </div>
+          <div class="taboola-right-rail-thumbnails-cards-x"></div>
+         </div>
+        </div>
+        <div class="fxc-top-right has-offset sticky-container-bottom-outer">
+         <div class="sticky-top is-bck-fullwidth">
+          <div class="bck-adv rcsad_Frame3_x_container" id="rcsad_Frame3_x_container_2">
+           <div class="adv__content is--hero bg--dark">
+            <div class="adv rcsad_Frame3_x_content is-300x250" id="rcsad_Frame3_x_2" style="display:none"></div>
+           </div>
+          </div>
+          <div class="taboola-right-rail-thumbnails-cards-x"></div>
+         </div>
+        </div>
+       </aside>
+      </div>
+     </section><!-- end section body article --><!-- section footer article -->
+     <section class="footer-article"></section>
+    </div>
+   </div>
+  </main><!--end main--><!--footer-->
+  <footer id="l-footer">
+   <!--@ESI footer START--><!--@ REQUEST URI :  /fe-includes/2019/SSI/external-template/gazzanet/footer/default.shtml?partnerId=www.sosfanta.com&amp;device=desktop&amp;type=cards--><!--@ PARTNER ID: www.sosfanta.com--><!--@[rcs_prefix]: prd--><!--@[SERVER_NAME]: contents.gazzanetobjects.internal--><!--@Conf type prd --><!--@[CONFTYPE]: prd--><!--@ fe-include /fe-includes/2019/SSI--><!--@ service-include /service-includes/2019/SSI--><!--@ Type: cards--><!--@ Device: desktop-->
+   <div class="bck-footer has--pd-sm">
+    <div class="container">
+     <div class="footer-partner fxc-top-left">
+      <h4 class="text-partner">SosFanta</h4>
+     </div>
+     <div class="columns">
+      <div class="column is-3">
+       <div class="footer--group fxr-between-between">
+        <div class="group is-mr-b-15">
+         <ul>
+          <li><a href="https://www.sosfanta.com/consigli-fantacalcio/">Consigli</a></li>
+          <li><a href="https://www.sosfanta.com/chi-schierare-fantacalcio/">Chi schierare</a></li>
+          <li><a href="https://www.sosfanta.com/voti-fantacalcio/">Voti</a></li>
+          <li><a href="https://www.sosfanta.com/assist-fantacalcio/">Assist</a></li>
+         </ul>
+        </div>
+        <div class="group is-mr-b-15">
+         <ul>
+          <li><a href="https://www.sosfanta.com/news-formazioni/">Ultime dai campi</a></li>
+          <li><a href="https://www.sosfanta.com/infortunati-serie-a/">Infortuni</a></li>
+          <li><a href="https://www.sosfanta.com/maglie-sos-fanta/">Maglie SOS Fanta</a></li>
+          <li><a href="https://www.sosfanta.com/lista-formazioni/probabili-formazioni-serie-a/">Probabili Formazioni</a></li>
+         </ul>
+        </div>
+        <p class="text">SOS Fanta SRL è una società iscritta al Registro Imprese di Milano n. 10057610965.</p>
+       </div>
+      </div>
+      <div class="column is-4 is-offset-1">
+       <p class="text">Il sito <a href="https://www.sosfanta.com">sosfanta.com</a> di titolarità di SOS Fanta SRL, con sede a Milano, via Paleocapa 6, C.F./PI 10057610965 è affiliato al network Gazzanet di RCS Mediagroup S.p.a.. Unico responsabile dei contenuti (testi, foto, video e grafiche) è SOS Fanta SRL; per ogni comunicazione avente ad oggetto i contenuti del sito scrivere a <a href="sosfanta@gmail.com">sosfanta@gmail.com</a></p>
+       <p class="text is-mr-t-15">Copyright 2021 © Tutti i diritti riservati.<br><a href="#">Sitemap</a> - <a href="https://www.gazzetta.it/privacy.shtml">Cookie Policy e Privacy</a> - <a title="Preferenze sui cookie" href="javascript:cpmt.openGdprDialog()">Preferenze sui cookie</a> - <a href="https://gazzanet.gazzetta.it/community-policy/">Community policy</a> - <a href="https://gazzanet.gazzetta.it/dichiarazione-accessibilita/">Dichiarazione di accessibilità</a> - <a href="/redazione/">Redazione</a></p>
+      </div>
+      <div class="column is-3 is-offset-1">
+       <div class="group">
+        <span class="icon"><i class="icon-gazzetta-g-logo-gazzetta fa-2x"></i></span>
+        <ul>
+         <li><a href="https://www.cairorcsmedia.it/?intcmp=fontegazzetta">Per pubblicità: CAIRORCS MEDIA SpA</a></li>
+        </ul>
+       </div>
+       <div class="group is-mr-t-15">
+        <figure class="image is-mr-b-7">
+         <img alt="desc img" src="https://components2.gazzettaobjects.it/rcs_gaz_gazzanet-layout/v1/assets/img/ext/partners/www.sosfanta.com/logo-navbar-mob.png?v=1ea07132f87f807d63dbb5f8d58e43eb">
+        </figure>
+        <ul></ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div><!--@ESI footer END-->
+   <div class="bck-social-modal is-hidden" data-url="https://www.sosfanta.com/asta-fantacalcio/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/4">
+    <div class="social-modal__header">
+     <div class="actions fxr-right-center">
+      <a class="icon is-medium has-text-primary"><i class="icon-gazzetta-g-close-inverse fa-2x"></i></a>
+     </div>
+    </div>
+    <div class="social-modal__content social">
+     <ul class="fxr-center-center fxc-wrap has-colors">
+      <li data-social="fb"><a class="icon is-large"><i class="icon-gazzetta-g-social-facebook-circle fa-3x"><span class="path1"></span><span class="path2"></span></i></a></li>
+      <li data-social="wa"><a class="icon is-large"><i class="icon-gazzetta-g-social-whatsapp fa-3x"><span class="path1"></span><span class="path2"></span></i></a></li>
+      <li data-social="tw"><a class="icon is-large"><i class="icon-gazzetta-g-social-twitter-circle fa-3x"><span class="path1"></span><span class="path2"></span></i></a></li>
+      <li data-social="fbm"><a class="icon is-large"><i class="icon-gazzetta-g-social-fbmessanger fa-3x"></i></a></li>
+      <li data-social="link"><a class="icon is-large"><i class="icon-gazzetta-g-link fa-3x"></i></a>
+       <div class="tooltip is-hidden" data-tooltip="link">
+        Link copiato negli appunti
+       </div></li>
+      <li data-social="embed" class="is-hidden"><a class="icon is-large"><i class="icon-gazzetta-g-embed fa-2x"></i></a>
+       <div class="tooltip is-hidden" data-tooltip="embed">
+        Codice embed copiato negli appunti
+       </div></li>
+     </ul>
+    </div>
+   </div>
+   <div class="overlay-flyout">
+    <div class="bck-modal-login" data-modal="login">
+     <div class="modal-login__header">
+      <div class="empty"></div><span class="form__title">LOGIN</span>
+      <div class="modal-login__close">
+       <button class="icon"><i class="icon-gazzetta-g-close-inverse"></i></button>
+      </div>
+     </div>
+     <div class="modal-login__content">
+      <div class="content-left">
+       <form action="">
+        <div class="field">
+         <div class="control">
+          <input class="input" type="text" data-name="email" data-validation="false" id="email-login" required> <label class="label" for="email-login">Email</label>
+         </div>
+         <p class="error">Email non valida. Controlla l’inserimento</p>
+        </div>
+        <div class="field">
+         <div class="control">
+          <input class="input" type="password" data-name="password" data-validation="false" id="password-login" required> <label class="label" for="password-login">Password</label> <i class="icon icon-gazzetta-g-ic-visibility-off fa-1-5x" data-icon="password-hidden"></i> <i class="icon icon-gazzetta-g-eye has-text-black is-hidden" data-icon="password-visible"></i>
+         </div>
+         <p class="error">Password non corretta</p>
+        </div>
+        <div class="field fxr-between-center">
+         <div class="control fxr-left-center">
+          <input class="checkbox" id="rememberMe" type="checkbox" name="rememberMe"> <label class="checkbox-label" for="rememberMe">Ricordami</label>
+         </div><a href="#" class="forgot-password">Password dimenticata?</a>
+        </div>
+        <button class="button is-primary" data-name="accedi" disabled>accedi</button>
+       </form>
+       <p class="error error__server is-hidden"></p>
+      </div>
+      <div class="separator"></div>
+      <div class="content-right">
+       <p class="text">oppure accedi a Gazzetta usando il tuo profilo social:</p>
+       <form action="">
+        <div class="field">
+         <button id="facebook-login-access" class="button social-access fb"><i class="icon icon-gazzetta-g-facebook-letter-logo fa-1-7x"></i> Continua con Facebook</button>
+         <button id="google-login-access" class="button social-access g"><i class="icon icon-gazzetta-g-google-logo fa-1-7x"><span class="path1"></span> <span class="path2"></span> <span class="path3"></span> <span class="path4"></span> </i>Continua con Google</button>
+        </div>
+       </form>
+      </div>
+     </div>
+     <div class="modal-login__footer">
+      <div class="registration-link">
+       <p>non hai un account?</p><a>registrati</a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="swg-modal-wrapper">
+    <div class="bck-modal-swg-login is-desktop" data-modal="swg-privacy">
+     <div class="modal-login__header">
+      <span class="form__title">COMPLETA LA REGISTRAZIONE</span>
+     </div>
+     <p class="form__subtitle">Per accedere al servizio seleziona le opzioni del TRATTAMENTO DATI e clicca su PROSEGUI.</p>
+     <div class="modal-login__co">
+      <form action="">
+       <p class="error error__server is-hidden"></p>
+       <div class="field has-check-radio">
+        <p class="description">Vi autorizzo al trattamento dei miei dati per ricevere informazioni promozionali mediante posta, telefono, posta elettronica, sms, mms e sondaggi d’opinione da parte di RCS Mediagroup S.p.a.</p><label class="input-radio"><input class="radio" id="accept-data-true" type="radio" name="promotion" value="accept-data-true"><span class="checkmark"></span><span class="input-radio__value">ACCETTO</span></label> <label class="input-radio"><input class="radio" id="accept-data-false" type="radio" name="promotion" value="accept-data-false"><span class="checkmark"></span><span class="input-radio__value">NON ACCETTO</span></label>
+       </div>
+       <div class="field has-check-radio">
+        <p class="description">Vi autorizzo alla lettura dei miei dati di navigazione per effetuare attività di analisi e profilazione per migliorare l’offerta e i servizi del sito in linea con le mie preferenze e i miei interessi.</p><label class="input-radio"><input class="radio" id="accept-analytics-true" type="radio" name="analytics" value="accept-analytics-true"><span class="checkmark"></span><span class="input-radio__value">ACCETTO</span></label> <label class="input-radio"><input class="radio" id="accept-analytics-false" type="radio" name="analytics" value="accept-analytics-false"><span class="checkmark"></span><span class="input-radio__value">NON ACCETTO</span></label>
+       </div>
+       <div class="field has-check-radio">
+        <p class="description">Vi autorizzo alla comunicazione dei miei dati personali per comunicazione e marketing mediante posta, telefono, posta elettronica, sms, mms e sondaggi d’opinione ai partner terzi.</p><label class="input-radio"><input class="radio" id="accept-third-part-true" type="radio" name="third-part" value="accept-third-part-true"><span class="checkmark"></span><span class="input-radio__value">ACCETTO</span></label> <label class="input-radio"><input class="radio" id="accept-third-part-false" type="radio" name="third-part" value="accept-third-part-false"><span class="checkmark"></span><span class="input-radio__value">NON ACCETTO</span></label>
+       </div>
+       <p class="privacy-info is-mr-b-30">Completando la registrazione dichiaro di essere maggiorenne e di avere preso visione dell’<a class="privacy-info__link" href="//www.gazzetta.it/privacy.shtml" target="_blank">Informativa Privacy redatta ai sensi del Regolamento UE 679/2016.</a></p>
+       <button class="button is-primary" data-name="accedi" disabled>prosegui</button>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div class="overlay-flyout" data-spinner="fullpage">
+    <div class="bck-spinner-ellipsis">
+     <div></div>
+     <div></div>
+     <div></div>
+     <div></div>
+    </div>
+   </div>
+   <div class="notification-pwa">
+    <div class="bck-accept-notification">
+     <div class="bck-accept-notification__request is-mr-b-10 is-mr-t-10">
+      <div class="request_logo">
+       <img src="https://components2.gazzettaobjects.it/rcs_gaz_gazzanet-layout/v1/assets/img/ext/partners/www.sosfanta.com/favicon.png?v=                                                                                                                                                                                                                                                                                                                                                                                                                                                                            " alt="">
+      </div>
+      <div class="request_text">
+       Vuoi rimanere aggiornato e ricevere le notizie di&nbsp;www.sosfanta.com?
+      </div>
+     </div>
+     <div class="bck-accept-notification__response">
+      <div class="response__button decline-button">
+       Non ora, grazie
+      </div><a class="response__button is-active" href="https://www.sosfanta.com/notifiche/">Attiva </a>
+     </div>
+    </div>
+   </div>
+  </footer><!--end footer-->
+  <script>
+        var sectionObject = [];
+            </script><!--@ESI bottom START--><!--@ REQUEST URI :  /fe-includes/2019/SSI/external-template/gazzanet/bottom/default.shtml?partnerId=www.sosfanta.com&amp;device=desktop&amp;type=cards--><!--@ PARTNER ID: www.sosfanta.com--><!--@[rcs_prefix]: prd--><!--@[SERVER_NAME]: contents.gazzanetobjects.internal--><!--@Conf type prd --><!--@[CONFTYPE]: prd--><!--@ fe-include /fe-includes/2019/SSI--><!--@ service-include /service-includes/2019/SSI--><!--@ Type: cards--><!--@ Device: desktop-->
+  <script src="https://components2.gazzettaobjects.it/rcs_cpmt/v1/distro/gazzettanetwork_ct.js?v=663327d4edac57dc3d26133c0b439d82"></script>
+  <script>var load = function() {
+                callReviZoneId({})
+            }
+            window.onload = load;</script>
+  <script type="text/javascript">var isBelowIE11=/MSIE/.test(window.navigator.userAgent),isIE11=/Trident/.test(window.navigator.userAgent),html='<link rel="stylesheet" href="https://components2.gazzettaobjects.it/rcs_gaz_gazzetta-layout/v2/css/pages/gazzetta/courtesy-update.css"><div class="bck-courtesy-update" id="bck-courtesy-update"><div class="close-icon has-text-primary"><span class="icon" id="bck-modal-update-browser-close"><i class="icon-gazzetta-g-close-inverse fa-2x"></i></span></div><div class="container"><div class="logo-container"><img class="logo" src="https://components2.gazzettaobjects.it/rcs_gaz_gazzetta-layout/v2/gazzetta-common/assets/img/ext/logos/logo-gazzetta-tutto-il-rosa.png"></div><div class="title">Aggiorna il tuo sistema operativo o il tuo browser</div><div class="text">Gentile utente,<br><br>stai utilizzando un sistema operativo o un browser non aggiornato.<br><br>Per visualizzare al meglio il sito de La Gazzetta dello Sport e non perderti tutte le ultime notizie sportive ti consigliamo di passare ad un nuovo sistema operativo o di scaricare l’ultima versione del browser che stai utilizzando.<br><br>Se pensi che il problema sia relativo al tuo browser puoi altrimenti scaricare <a href="https://www.google.com/chrome/">l\'ultima versione di Chrome</a> o <a href="https://www.mozilla.org/it/firefox/">l\'ultima versione di Firefox</a>.<br><br>Grazie.<br>Il Team de La Gazzetta dello Sport</div></div></div>',isOldWin=!1,oldWin=window.navigator.userAgent.match(/Windows NT (.*?)[\;\)]/i);if(oldWin&&1<oldWin.length){var winVer=parseFloat(oldWin[1]);isNaN(parseFloat(winVer))||(isOldWin=!(59<10*winVer))}(isBelowIE11||isIE11||isOldWin)&&(document.body.innerHTML=html)</script>
+  <script>var name = "__cmpAcceptedPurposes";
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    var valueCookie = null;
+    if (parts.length === 2) {
+        valueCookie = parts.pop().split(';').shift();
+    }
+    if(valueCookie == "1|2|3|4|5|6|7|8|9|10|11"){
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '429879560955013');
+        fbq('track', 'PageView');
+    }</script>
+  <noscript>
+   <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=429879560955013&amp;ev=PageView&amp;noscript=1">
+  </noscript>
+  <script>!function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src="https://www.googletagmanager.com/gtm.js?id=GTM-TR5X5X2",m.parentNode.insertBefore(r,m)}(window,document,"script","dataLayer")</script>
+  <script type="text/javascript">window._taboola=window._taboola||[],_taboola.push({flush:!0})</script>
+  <script type="text/javascript">var whicMainSectionCB = 'default';
+            var whicSubSectionCB = 'default';
+
+            if (whicSubSectionCB == 'default') whicSubSectionCB = '';
+
+            if (whicMainSectionCB != 'default' && whicMainSectionCB != '') {
+                if (whicSubSectionCB != 'default' && whicSubSectionCB != '') {
+                whicMainSectionCB = whicMainSectionCB + ',' + whicSubSectionCB;
+                }
+            }
+            else {
+                if (whicSubSectionCB != 'default' && whicSubSectionCB != '') {
+                whicMainSectionCB = whicSubSectionCB;
+                }
+                else whicMainSectionCB = '';
+            }
+
+            if (typeof gnet2020 === 'undefined') {
+            } else {
+                if (gnet2020 == true) {
+                    var pathUrl = window.location.host.replace('www.','');
+                    whicMainSectionCB = 'Gazzanet, ' + pathUrl;
+                }
+            }
+
+            var useCanonical_cb = true;
+            if (whicMainSectionCB == 'errore' || whicMainSectionCB == 'static-pages' || whicMainSectionCB == 'community') useCanonical_cb = false;
+            var _sf_async_config = _sf_async_config || {};
+            /** CONFIGURATION START **/
+            _sf_async_config.sections = whicMainSectionCB;  //CHANGE THIS
+            _sf_async_config.authors = '';    //CHANGE THIS
+            /** CONFIGURATION END **/
+
+            /*function loadChartbeat() {
+                window._sf_endpt = (new Date()).getTime();
+                var e = document.createElement('script');
+                var n = document.getElementsByTagName('script')[0];
+                e.type = 'text/javascript';
+                e.async = true;
+                e.src = '//static.chartbeat.com/js/chartbeat_video.js';
+                n.parentNode.insertBefore(e, n);
+            }*/
+            
+            function loadExternalScript(scriptSrc) {
+                window._sf_endpt = (new Date()).getTime();
+                const script = document.createElement('script');
+                const firstScriptTagInPage = document.getElementsByTagName('script')[0]
+                if (!firstScriptTagInPage) return;
+                script.type = 'text/javascript';
+                script.async = true;
+                script.src = scriptSrc;
+                firstScriptTagInPage.parentNode.insertBefore(script, firstScriptTagInPage);
+            }
+
+            window.addEventListener('cmpFileLoaded', function() {
+                if ( (typeof privacyOK != "undefined" && privacyOK==true) && (typeof cmp != "undefined" && cmp.getUserConsentStatusForCustomVendor("chartbeat") == true ) ) {
+                    //loadChartbeat();
+                    loadExternalScript('//static.chartbeat.com/js/chartbeat_video.js');
+                    if (network === 'gazzanet') {
+                        loadExternalScript('//static.chartbeat.com/js/chartbeat_mab.js')
+                    }
+                }
+            }, true);</script>
+  <script type="text/javascript">TS_debug=!1</script>
+  <script src="https://components2.gazzettaobjects.it/rcs_tracking-service/v1/distro/gazzetta/TrackingService.js?v=5671f55ff5b7cc05725114a9fc26823e" type="text/javascript"></script>
+  <script type="text/javascript">document.addEventListener("DOMContentLoaded",function(){var t=setInterval(function(){if("undefined"!=typeof utag&&"function"==typeof utag.track){clearInterval(t);try{utag_data.send_page_bottom()}catch(t){}}},100)})</script>
+  <script src="https://components2.gazzettaobjects.it/rcs_data-tracking/v1/distro/openx/gazzetta/openx_async.js?v=59783c733d9791df69357912620861f3"></script><!--@ESI bottom --><!--@ESI bottom END-->
+ </body>
+</html>
