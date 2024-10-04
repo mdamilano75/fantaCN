@@ -96,17 +96,21 @@ public class FC_Varie {
 	protected static final String url_infortunati				=  "https://www.fantacalcio.it/indisponibili-serie-a";
 	
 	protected static final String nomeFile_chiPrendereDif1		=  "chiPrendere_DIF_1.txt";			// https://www.sosfanta.com/box-consigli/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/2/
-	protected static final String url_chiPrendereDif1			=  "https://www.sosfanta.com/box-consigli/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/2";
+	
+	protected static final String url_chiPrenderepref1			= "https://www.sosfanta.com/box-consigli/";
+	protected static final String url_chiPrenderepref2			= "https://www.sosfanta.com/asta-fantacalcio/";
+	protected static final String url_chiPrenderePor			=  "la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere";
+	protected static final String url_chiPrendereDif1			=  "la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/2";
 	protected static final String nomeFile_chiPrendereDif2		=  "chiPrendere_DIF_2.txt";			// https://www.sosfanta.com/box-consigli/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/3/
-	protected static final String url__chiPrendereDif2			=  "https://www.sosfanta.com/box-consigli/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/3";
+	protected static final String url_chiPrendereDif2			=  "la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/3";
 	protected static final String nomeFile_chiPrendereCen1		=  "chiPrendere_CEN_1.txt";			// https://www.sosfanta.com/box-consigli/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/4/
-	protected static final String url_chiPrendereCen1			=  "https://www.sosfanta.com/box-consigli/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/4";
+	protected static final String url_chiPrendereCen1			=  "la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/4";
 	protected static final String nomeFile_chiPrendereCen2		=  "chiPrendere_CEN_2.txt";			// https://www.sosfanta.com/box-consigli/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/5/
-	protected static final String url_chiPrendereCen2			=  "https://www.sosfanta.com/box-consigli/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/5";
+	protected static final String url_chiPrendereCen2			=  "la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/5";
 	protected static final String nomeFile_chiPrendereAtt1		=  "chiPrendere_ATT_1.txt";			// https://www.sosfanta.com/box-consigli/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/6/
-	protected static final String url_chiPrendereAtt1			=  "https://www.sosfanta.com/box-consigli/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/6";
+	protected static final String url_chiPrendereAtt1			=  "la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/6";
 	protected static final String nomeFile_chiPrendereAtt2		=  "chiPrendere_ATT_2.txt";			// https://www.sosfanta.com/box-consigli/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/7/
-	protected static final String url_chiPrendereAtt2			=  "https://www.sosfanta.com/box-consigli/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/7";
+	protected static final String url_chiPrendereAtt2			=  "la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/7";
 
 //	protected static final String nomeFile_chiPrendereALL		=  "chiPrendere_ALL.txt";			// https://www.sosfanta.com/box-consigli/la-guida-allasta-completa-per-il-fantacalcio-2024-25-la-divisione-in-fasce-e-chi-prendere/
 	
